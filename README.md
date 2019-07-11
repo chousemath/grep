@@ -1,5 +1,13 @@
 # Learning `grep`
 
+# The history of grep
+
+* Invented by Ken Thompson for searching through files.
+* Thompson chose the name because in ed (a text editor created by Thompson), the command g/re/p would print all lines matching a previously defined pattern.
+* The `egrep` variant supports an extended regular expression syntax.
+* The `fgrep` variant searches for any of a list of fixed strings using the Aho–Corasick string matching algorithm.
+* Functionalities of these variants are included in grep as the command-line switches -E and -F (example included below).
+
 ```bash
 #!/bin/bash
 
@@ -64,3 +72,4 @@ $ grep '^[[:alnum:]]' s1/*.txt*
 
 * Learn `egrep`
 * Learn `fgrep`
+* Learn `pgrep`
