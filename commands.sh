@@ -31,3 +31,9 @@ $ grep -i -n forever s1/*.txt* > occurrences_of_forever.txt
 # Get all of Ross' lines in Season 1 of Friends
 $ grep -n ^Ross s1/*.txt* > occurrences_of_ross.txt
 $ grep -n ^Monica s1/*.txt* > occurrences_of_monica.txt
+
+# Print lines ending with the pattern
+$ grep -n ?$ s1/*.txt* > occurrences_of_questions.txt
+
+# Print all lines excluding the matched ones
+$ grep -i -v chandler s1/*.txt* > occurrences_without_chandler.txt
