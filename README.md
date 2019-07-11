@@ -48,7 +48,7 @@ $ grep -n .! s1/*.txt* > occurrences_with_exclamation.txt
 curl https://fangj.github.io/friends/season/0201.html | grep -i chandler > occurrences_with_chandler.html
 
 # Combined word search using extended words
-$ grep -Ew 'Monica:|Chandler:|Monica and|Chandler and' s1/*.txt* | grep -v "Scene" > occurences_with_monica_or_chandler.txt
+$ grep -Ew 'Monica:|Chandler:' s1/*.txt* > occurences_with_monica_or_chandler.txt
 
 # Counting the number of occurrences acroos all text files
 $ grep -c -i friend s1/*.txt*
