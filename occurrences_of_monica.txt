@@ -1,0 +1,882 @@
+s1/s1_e1.txt:6:Monica: There's nothing to tell! He's just some guy I work with!
+s1/s1_e1.txt:12:Monica: Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex.
+s1/s1_e1.txt:23:Monica: And they weren't looking at you before?!
+s1/s1_e1.txt:28:Monica: Are you okay, sweetie?
+s1/s1_e1.txt:31:Monica: (explaining to the others) Carol moved her stuff out today.
+s1/s1_e1.txt:33:Monica: (to Ross) Let me get you some coffee.
+s1/s1_e1.txt:39:Monica: No you don't.
+s1/s1_e1.txt:45:Monica: Oh really, so that hysterical phone call I got from a woman at sobbing 3:00 A.M., "I'll never have grandchildren, I'll never have grandchildren." was what?  A wrong number?
+s1/s1_e1.txt:53:Monica: Rachel?!
+s1/s1_e1.txt:56:Monica: (pointing at Rachel) De-caff. (to All) Okay, everybody, this is Rachel, another Lincoln High survivor. (to Rachel) This is everybody, this is Chandler, and Phoebe, and Joey, and- you remember my brother Ross?
+s1/s1_e1.txt:60:Monica: So you wanna tell us now, or are we waiting for four wet bridesmaids?
+s1/s1_e1.txt:62:Monica: Who wasn't invited to the wedding.
+s1/s1_e1.txt:64:Monica: Now I'm guessing that he bought her the big pipe organ, and she's really not happy about it.
+s1/s1_e1.txt:77:Monica: Well, I guess we've established who's staying here with Monica...
+s1/s1_e1.txt:80:Monica: Just breathe, breathe.. that's it. Just try to think of nice calm things...
+s1/s1_e1.txt:84:Monica: Okay, look, this is probably for the best, y'know? Independence. Taking control of your life.  The whole, 'hat' thing.
+s1/s1_e1.txt:86:Monica: Joey, stop hitting on her! It's her wedding day!
+s1/s1_e1.txt:91:Monica: Oh God, is it 6:30?  Buzz him in!
+s1/s1_e1.txt:94:Monica: Maybe. Joey: Wait. Your 'not a real date' tonight is with Paul the Wine Guy?
+s1/s1_e1.txt:96:Monica: Yes!
+s1/s1_e1.txt:98:Monica: Rach, wait, I can cancel...
+s1/s1_e1.txt:100:Monica: (to Ross) Are, are you okay? I mean, do you want me to stay?
+s1/s1_e1.txt:102:Monica: (horrified) Really?
+s1/s1_e1.txt:106:Monica: Hi, come in! Paul, this is.. (They are all lined up next to the door.)... everybody, everybody, this is Paul.
+s1/s1_e1.txt:109:Monica: Okay, umm-umm, I'll just--I'll be right back, I just gotta go ah, go ah...
+s1/s1_e1.txt:111:Monica: Change!  Okay, sit down. (Shows Paul in) Two seconds.
+s1/s1_e1.txt:117:Monica: (yelling from the bedroom) Shut up, Joey!
+s1/s1_e1.txt:150:Monica: Oh my God!
+s1/s1_e1.txt:152:Monica: My brother's going through that right now, he's such a mess. How did you get through it?
+s1/s1_e1.txt:154:Monica: -leg?
+s1/s1_e1.txt:156:Monica: You actually broke her watch?  Wow!  The worst thing I ever did was, I-I shredded by boyfriend's favorite bath towel.
+s1/s1_e1.txt:158:Monica: That's right. [Scene: Monica's Apartment, Rachel is talking on the phone and pacing.]
+s1/s1_e1.txt:171:Monica: What?..... What, you wanna spell it out with noodles?
+s1/s1_e1.txt:173:Monica: Oh, so there is gonna be a fifth date?
+s1/s1_e1.txt:175:Monica: Yeah... yeah, I think there is. -What were you gonna say?
+s1/s1_e1.txt:177:Monica: (spitting out her drink in shock) Oh God, oh God, I am sorry... I am so sorry...
+s1/s1_e1.txt:179:Monica: I know being spit on is probably not what you need right now. Um... how long?
+s1/s1_e1.txt:181:Monica: Wow! I'm-I'm-I'm glad you smashed her watch!
+s1/s1_e1.txt:183:Monica: (pause)...Yeah. Yeah, I do.
+s1/s1_e1.txt:202:Monica: (entering, to herself) Oh good, Lenny and Squigy are here.
+s1/s1_e1.txt:210:Monica: Stop!
+s1/s1_e1.txt:212:Monica: We'll talk later.
+s1/s1_e1.txt:215:Monica: Shut up, and put my table back.
+s1/s1_e1.txt:219:Monica: Yeah, we all have jobs. See, that's how we buy stuff.
+s1/s1_e1.txt:223:Monica: Oh wait, wait, unless you happened to catch the Reruns' production of Pinocchio, at the little theater in the park.
+s1/s1_e1.txt:229:Monica: So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling.
+s1/s1_e1.txt:231:Monica: I know, he's just so, so... Do you remember you and Tony DeMarco?
+s1/s1_e1.txt:233:Monica: Well, it's like that. With feelings.
+s1/s1_e1.txt:235:Monica: Big time!
+s1/s1_e1.txt:237:Monica: I think we are getting a little ahead of selves here. Okay. Okay. I am just going to get up, go to work and not think about him all day. Or else I'm just gonna get up and go to work.
+s1/s1_e1.txt:239:Monica: What for?
+s1/s1_e1.txt:244:Monica: Hey Frannie, welcome back! How was Florida?
+s1/s1_e1.txt:246:Monica: How do you do that?
+s1/s1_e1.txt:248:Monica: You know Paul?
+s1/s1_e1.txt:250:Monica: You mean you know Paul like I know Paul?
+s1/s1_e1.txt:254:Monica: Why?! Why? Why, why would anybody do something like that?
+s1/s1_e1.txt:256:Monica: I hate men!  I hate men!
+s1/s1_e1.txt:258:Monica: Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?
+s1/s1_e1.txt:260:Monica: I just thought he was nice, y'know?
+s1/s1_e1.txt:270:Monica: How'd you pay for them?
+s1/s1_e1.txt:272:Monica: And who pays for that?
+s1/s1_e1.txt:276:Monica: C'mon, you can't live off your parents your whole life.
+s1/s1_e1.txt:283:Monica: All right, you ready?
+s1/s1_e1.txt:285:Monica: You can, I know you can!
+s1/s1_e1.txt:291:Monica:  Rachel!  That was a library card!
+s1/s1_e1.txt:295:Monica: Welcome to the real world! It sucks. You're gonna love it!
+s1/s1_e1.txt:297:Monica: Well, that's it (To Ross) You gonna crash on the couch?
+s1/s1_e1.txt:299:Monica: You be okay?
+s1/s1_e1.txt:302:Monica: That's Paul's watch. You just put it back where you found it. Oh boy. Alright. Goodnight, everybody.
+s1/s1_e1.txt:321:Monica: See ya.... Waitwait, what's with you?
+s1/s1_e1.txt:327:Monica: What? I-I said you had a-
+s1/s1_e1.txt:329:Monica: (to Phoebe) Would you stop?
+s1/s1_e1.txt:332:Monica: I said that you had a nice butt, it's just not a great butt.
+s1/s1_e10.txt:7:Monica: W-wait. What is that?
+s1/s1_e10.txt:9:Monica: No, no, I don't.
+s1/s1_e10.txt:14:Monica: Ross, is he gonna live with you, like, in your apartment?
+s1/s1_e10.txt:16:Monica: Why don't you just get a roommate?
+s1/s1_e10.txt:24:Monica: So, how'd it go?
+s1/s1_e10.txt:28:Monica: So what are you gonna be?
+s1/s1_e10.txt:75:Monica: I think it's romantic.
+s1/s1_e10.txt:82:Monica: What?!
+s1/s1_e10.txt:85:Monica: Yeah, but Janice? That-that was like the worst breakup in history!
+s1/s1_e10.txt:94:Monica: Ross! He's playing with my spatulas again!
+s1/s1_e10.txt:96:Monica: Do you always have to bring him here?
+s1/s1_e10.txt:121:Monica: I'm sorry, okay. It's just that Chandler has somebody, and Phoebe has somebody- I thought I'd ask Fun Bobby.
+s1/s1_e10.txt:123:Monica: Yeah.
+s1/s1_e10.txt:139:Monica: What's the matter?
+s1/s1_e10.txt:190:Monica: Vividly.
+s1/s1_e10.txt:192:Monica: Hi.
+s1/s1_e10.txt:198:Monica: That thing is not coming in here.
+s1/s1_e10.txt:200:Monica: I'm guessing your new girlfriend wouldn't urinate on my coffee table.
+s1/s1_e10.txt:202:Monica: Alright. Just keep him away from me.
+s1/s1_e10.txt:205:Monica: Oh my gosh! Rachel, honey.. are you okay? Where-where's Paolo?
+s1/s1_e10.txt:221:Monica: Hey everybody! It's Fun Bobby!
+s1/s1_e10.txt:265:Monica: Not everybody's happy. Hey Bobby!
+s1/s1_e10.txt:270:Monica: So I'm kissing everyone?
+s1/s1_e11.txt:5:Monica: Why?
+s1/s1_e11.txt:7:Monica: Oh my God. (Grabs Phoebe and turns her away) Phoebe. Don't look now, but behind us is a guy who has the potential to break our hearts and plunge us into a pit of depression.
+s1/s1_e11.txt:9:Monica: He's coming. Be cool, be cool, be cool.
+s1/s1_e11.txt:12:Monica and Phoebe: (in unison) Thanks.
+s1/s1_e11.txt:15:Monica: We are not going to whistle.
+s1/s1_e11.txt:17:Monica: No!
+s1/s1_e11.txt:19:Monica: No!
+s1/s1_e11.txt:21:Monica: (Shouts to the guy) Woo-woo!
+s1/s1_e11.txt:26:Monica: Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?
+s1/s1_e11.txt:28:Monica: Phoebe, what are you doing?
+s1/s1_e11.txt:30:Monica: I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
+s1/s1_e11.txt:32:Monica: Okay, he's a lawyer, who teaches sculpting on the side. And- he can dance!
+s1/s1_e11.txt:34:Monica: I wish all guys could be like him.
+s1/s1_e11.txt:38:Monica: He doesn't have anyone.
+s1/s1_e11.txt:57:Monica: Last night.
+s1/s1_e11.txt:78:Monica: Let's see. Congress is debating a new deficit reduction bill... the mayor wants to raise subway fares again... the high today was forty-five... and- oh, teams played sports.
+s1/s1_e11.txt:81:Monica: Nah... not-not special enough.
+s1/s1_e11.txt:83:Monica: Waaay too special.
+s1/s1_e11.txt:93:Monica: Yeah.
+s1/s1_e11.txt:176:Monica: (Entering) What are you guys doing here?
+s1/s1_e11.txt:178:Monica: ...What did I ask?
+s1/s1_e11.txt:180:Monica: Hi.
+s1/s1_e11.txt:182:Monica: What are you doing here?
+s1/s1_e11.txt:184:Monica: I'm not really here. Just thought I'd drop these off...on the way.. my way... Do you come here a lot? Without me?
+s1/s1_e11.txt:186:Monica: How would I know? I-I wasn't here.
+s1/s1_e11.txt:215:Monica: Hey.
+s1/s1_e11.txt:217:Monica: (Reading) 'A Woman Undone, by Rachel Karen Green'.
+s1/s1_e11.txt:219:Monica: (Reads) Yeah, I'd say so. And there's no 'j' in 'engorged'.
+s1/s1_e11.txt:223:Monica: Hello.
+s1/s1_e11.txt:225:Monica: No, you?
+s1/s1_e11.txt:227:Monica: You just asked me.
+s1/s1_e11.txt:259:Monica: Oh! You're awake!
+s1/s1_e11.txt:262:Monica: You look good!
+s1/s1_e11.txt:264:Monica: Oh, sorry.
+s1/s1_e11.txt:266:Monica: I'm Monica Geller. I've been taking care of you.
+s1/s1_e11.txt:270:Monica: I got you the foot massager.
+s1/s1_e11.txt:272:Monica: I read to you.
+s1/s1_e11.txt:275:Monica: Oh, my pleasure.
+s1/s1_e11.txt:279:Monica: "See you around?"
+s1/s1_e11.txt:281:Monica: Oh, I don't know. Maybe, um, "That was nice?" Admit something to me? "I'll call you?"
+s1/s1_e11.txt:284:Monica: This is so typical. Y'know, we give, and we give, and we give. And then- we just get nothing back! And then one day, y'know, it's just, you wake up, and "See you around!" Let's go, Phoebe.
+s1/s1_e11.txt:329:Monica: What's a 'niffle'?
+s1/s1_e12.txt:8:Monica: Aunt Syl, stop yelling! All I'm saying is that if you had told me vegetarian lasagna, I would have made vegetarian lasagna. (pauses, listens to person on phone) Well, the meat's only every third layer, maybe you could scrape.
+s1/s1_e12.txt:15:Monica: Aunt Syl, I did this as a favor, I am not a caterer. What do you want me to do with a dozen lasagnas? (listens to Aunt Syl on phone, looks shocked) Nice talk, Aunt Syl. (in New York accent) You kiss Uncle Freddie with that mouth?
+s1/s1_e12.txt:25:Monica: So, did I hear Poconos?
+s1/s1_e12.txt:28:Monica: Yeah, that's a big step.
+s1/s1_e12.txt:116:Monica: And Monica knows...
+s1/s1_e12.txt:118:Monica: Carol called me to thank me for the lasagna, I asked, she told me.
+s1/s1_e12.txt:121:Monica: I'm sorry, I'm just excited about being an aunt!
+s1/s1_e12.txt:128:Monica: Phoebe, what's the matter?
+s1/s1_e12.txt:134:Monica: Phoebe, what is it?
+s1/s1_e12.txt:143:Monica: Well, what happened?
+s1/s1_e12.txt:148:Monica: Are you sure?
+s1/s1_e12.txt:152:Monica: Was it...?
+s1/s1_e12.txt:158:Monica: Oh!
+s1/s1_e12.txt:202:Monica: So how does this work, you going to balance the plates on these little guys' heads?
+s1/s1_e12.txt:204:Monica: Heads up Ross! (Monica scores on Chandler and Joey) Score! (points at Chandler) You suck!
+s1/s1_e12.txt:234:Monica: We should get over there and see if she's okay. (switching places with Ross) Just one...second! Score! (Monica scores, high-fives with Ross) Game! Come on. (Monica and Phoebe leave)
+s1/s1_e12.txt:246:Monica: Don't stare. Now she just finished throwing his clothes off the balcony, now there's just a lot of gesturing and arm-waving, (shows Rachel gesturing with hands in front of her chest), Ok, that is either, "How could you?" or, "Enormous breasts!" Here he comes!
+s1/s1_e12.txt:251:Monica: Paolo, I really hate you for what you did to Rachel, (hands him a lasagna) but I still have five of these, so heat it at 375 until the cheese bubbles.
+s1/s1_e12.txt:256:Monica: Oh, you're right.
+s1/s1_e12.txt:271:Monica: Ooh...hey honey, are you all right?
+s1/s1_e12.txt:299:Monica: Yes! And that would be a shut-down!
+s1/s1_e12.txt:301:Monica: Where are you guys going? Come on, one more game!
+s1/s1_e12.txt:304:Monica: You guys are always hanging out in my apartment! Come on, I'll only use my left hand, huh? Come on, wussies! (Joey and Chandler pick her up) All right, ok, I gotta go. I'm going, (they throw her out) and I'm gone.
+s1/s1_e13.txt:25:Monica: So, you think you'll do it on his couch?
+s1/s1_e13.txt:51:Monica: Hey, how long are you in the city?
+s1/s1_e13.txt:86:Monica: Hello?
+s1/s1_e13.txt:89:Monica: C'mon up.
+s1/s1_e13.txt:100:Monica: Wait-wait, go back to that sibling thing.
+s1/s1_e13.txt:103:Monica: Oh! So you think I'm a failure!
+s1/s1_e13.txt:106:Monica: Y'know, all these years, I thought you were on my side. But maybe what you were doing was sucking up to Mom and Dad so they'd keep liking you better!
+s1/s1_e13.txt:114:Monica: You're welcome.
+s1/s1_e13.txt:117:Monica: Hate that guy! (Throws another cookie)
+s1/s1_e13.txt:179:Monica: Hi...May I help you?
+s1/s1_e13.txt:181:Monica: Okay...who are you?
+s1/s1_e13.txt:183:Monica: Oh, c'mon in.
+s1/s1_e13.txt:204:Monica: How's it going?
+s1/s1_e13.txt:208:Monica: Nothing, um, it's just, um... It's Roger.
+s1/s1_e13.txt:250:Monica: So you talked to your dad, huh.
+s1/s1_e13.txt:260:Monica: How's it going?
+s1/s1_e13.txt:271:Monica: Joey!! What the hell were you doing?!
+s1/s1_e13.txt:274:Monica: Hello, Joey.
+s1/s1_e14.txt:24:Monica: You can not do this.
+s1/s1_e14.txt:26:Monica: Roger wants to take her out tomorrow night.
+s1/s1_e14.txt:29:Monica: But Phoebe, you can go out with a creepy guy any night of the year. I know I do.
+s1/s1_e14.txt:56:Monica: Which one was Pete Carney?
+s1/s1_e14.txt:58:Monica: Yeah, well, I'll take a little crying any day over Howard-the-"I-win"-guy. (imitating) "I win! I win!" I went out with the guy for two months—I didn't get to win once.
+s1/s1_e14.txt:60:Monica: I don't know. Maybe we're some kinda magnets.
+s1/s1_e14.txt:62:Monica: There's more beer, right?
+s1/s1_e14.txt:66:Monica: Ok, well, what kind of ritual?
+s1/s1_e14.txt:70:Monica: Burning's good.
+s1/s1_e14.txt:110:Monica: Oh, Chandler, sorry.
+s1/s1_e14.txt:112:Monica: Ohhh, Chandler, sorry! Hey, Janice.
+s1/s1_e14.txt:115:Monica: Rach, come see who's out here!
+s1/s1_e14.txt:119:Monica: I'll be right back.
+s1/s1_e14.txt:126:Monica: Oh, hi, Ross. Yeah. There's someone I want you to say hi to. (to Chandler) He just happened to call.
+s1/s1_e14.txt:141:Monica: All I have is, is oregano and a Fresca.
+s1/s1_e14.txt:144:Monica: Can we just start throwing things in?
+s1/s1_e14.txt:148:Monica: Look, here's a picture of Scotty Jared naked.
+s1/s1_e14.txt:150:Monica: No.
+s1/s1_e14.txt:153:Monica: Hey, Rachel, isn't that stuff almost pure...
+s1/s1_e14.txt:178:Monica: You know, it's a really funny story how this happened.
+s1/s1_e14.txt:222:Monica: They're nice guys.
+s1/s1_e15.txt:9:Monica: Aww, thank you. (Notices something.) Uh Rach?
+s1/s1_e15.txt:11:Monica: Why does my cinamon stick have an eraser?
+s1/s1_e15.txt:32:Monica: Yeah, Chandler... you've been there for five years.
+s1/s1_e15.txt:43:Monica: (taps Phoebe on her shoulder) Um... hi there.
+s1/s1_e15.txt:47:Monica: Well, what kind of food is he looking for?
+s1/s1_e15.txt:49:Monica: (excited) Oh my God!
+s1/s1_e15.txt:64:Monica: Oh, I love my life, I love my life!
+s1/s1_e15.txt:67:Monica: So great! He showed me where the restaurant's going to be. It's this, it's this cute little place on 10th Street. Not too big, not too small. Just right.
+s1/s1_e15.txt:69:Monica: So anyway, I'm cooking dinner for him Monday night. You know, kind of like an audition. And Phoebe, he really wants you to be here, which will be great for me because then you can 'ooh' and 'ahh' and make yummy noises.
+s1/s1_e15.txt:73:Monica: I don't know. I don't know. It's just going to be so great!
+s1/s1_e15.txt:93:Monica: (to Joey) OK, try this salmon mousse.
+s1/s1_e15.txt:95:Monica: Is it better than the other salmon mousse?
+s1/s1_e15.txt:97:Monica: Yeah, well, is that better?
+s1/s1_e15.txt:105:Monica: (brings a plate of tiny appetizers over) Here you go, maybe this'll cheer you up.
+s1/s1_e15.txt:107:Monica: It's supposed to be that small. It's a pre-appetizer. The French call it an amouz-bouche.
+s1/s1_e15.txt:110:Monica: (on phone) Hello? (Listens) Oh, hi Wendy! (Listens) Yeah, eight o'clock. (Listens) What did we say? Ten dollars an hour?... (Listens) OK, great. (Listens) All right, I'll see you then. Bye. (hangs up)
+s1/s1_e15.txt:112:Monica: Oh, I asked one of the waitresses at work if she'd help me out.
+s1/s1_e15.txt:115:Monica: Well... of course I thought of you! But... but...
+s1/s1_e15.txt:117:Monica: But, you see, it's just... this night has to go just perfect, you know? And, well, Wendy's more of a... professional waitress.
+s1/s1_e15.txt:188:Monica: (shouting on phone) Wendy, we had a deal! (Listens) Yeah, you promised! Wendy! Wendy! Wendy! (hangs up)
+s1/s1_e15.txt:190:Monica: Wendy bailed. I have no waitress.
+s1/s1_e15.txt:192:Monica: Ten dollars an hour.
+s1/s1_e15.txt:194:Monica: Twelve dollars an hour.
+s1/s1_e15.txt:196:Monica: You know, Rachel, when you ran out of your wedding, I was there for you. I put a roof over your head, and if that means nothing to you... (Rachel isn't buying it, desperate) twenty dollars an hour.
+s1/s1_e15.txt:200:Monica: Hi Steve!
+s1/s1_e15.txt:202:Monica: (to Steve) This is Rachel.
+s1/s1_e15.txt:206:Monica: Oh, thank you. Would you like a tour?
+s1/s1_e15.txt:216:Monica: Yeah, I think we're ready for our first course. (Steve sits, Monica brings over a tray) OK, um, these are rot-shrimp ravioli, and celantro pondou sauce... (Steve starts to eat them one by one, quickly)... with just a touch of mints... and... (he finishes)... ginger.
+s1/s1_e15.txt:218:Monica: I'm so glad you liked them!
+s1/s1_e15.txt:220:Monica: Oh, well... um, that's all there are of these. But in about eight and a half minutes, we'll be serving some delicious onion tartlets.
+s1/s1_e15.txt:226:Monica: (joining him and taking the taco shells) You know that? You don't want to spoil your appetite.
+s1/s1_e15.txt:228:Monica: You know, if you just wait another... six and a half minutes...
+s1/s1_e15.txt:230:Monica: No, we don't. (reaches for box)
+s1/s1_e15.txt:232:Monica: Why don't you just have a seat here? (he sits at the table, then tries to secretly eat the Gummi-bears. Monica spots him.) OK... give me the Gummi-bears.
+s1/s1_e15.txt:234:Monica: Give them to me.
+s1/s1_e15.txt:236:Monica: No, give me the...
+s1/s1_e15.txt:238:Monica: (furious) That's it! Dinner is over!
+s1/s1_e15.txt:240:Monica: What?
+s1/s1_e15.txt:242:Monica: Why? It's just that I've waited seven years for an opportunity like this, and you can't even wait four and a half minutes for a stupid onion tartlet?
+s1/s1_e15.txt:249:Monica: I know... it's just... I thought this was, you know... it.
+s1/s1_e16.txt:42:Monica: Okay, look, this could be a really long game.
+s1/s1_e16.txt:59:Monica: Ross, that’s my jacket.
+s1/s1_e16.txt:101:Monica: Ross, your little creature’s got the remote again.
+s1/s1_e16.txt:104:Monica: Great.
+s1/s1_e16.txt:110:Monica: Ah no, you see, someone was supposed to take them down around New Year’s... but obviously someone forgot.
+s1/s1_e16.txt:204:Monica: I can’t believe you. You still haven’t told that girl she doesn’t have a job yet?
+s1/s1_e16.txt:206:Monica: Congratulations, I think you’ve found the world’s thinnest argument.
+s1/s1_e16.txt:214:Monica: I’ll get it.
+s1/s1_e16.txt:216:Monica: Oh. Hi, Mr.Heckles.
+s1/s1_e16.txt:218:Monica: We’re not doing anything. We’re just sitting around talking, quietly.
+s1/s1_e16.txt:222:Monica: (Closing the door) Goodbye Mr.Heckles.
+s1/s1_e16.txt:313:Monica: Okay, I think I get how to do this.
+s1/s1_e16.txt:316:Monica: (Remotely turning off the television) okay, Pheebs, they’re gone.
+s1/s1_e16.txt:318:Monica: Are you alright?
+s1/s1_e16.txt:322:Monica and Rachel: (Wistfully, shaking their heads) No.
+s1/s1_e16.txt:327:Monica: Hon, you gotta talk to Joey.
+s1/s1_e16.txt:341:Monica: Rachel, what are you doing? It’s freezing out here. Would you come back inside?
+s1/s1_e16.txt:344:Monica: Oh-my-god Rachel! (Rushing out to look over the edge) Rachel!
+s1/s1_e17.txt:8:Monica: Hi. Uh, my friend here was taking down our Christmas lights, and and she fell off the balcony and may have broken her foot or or ankle or something.
+s1/s1_e17.txt:15:Monica: Okay, ooh, alright. Name, address... Okay, in case of emergency, call?
+s1/s1_e17.txt:17:Monica: Really?
+s1/s1_e17.txt:19:Monica: Oh, that is so sweet. (Touched, she puts an arm around her friend and kisses her.) Oh gosh, love you. Insurance?
+s1/s1_e17.txt:21:Monica: (No longer touched) you don't have insurance?
+s1/s1_e17.txt:23:Monica: I have no idea, but X-rays alone could be a couple hundred dollars.
+s1/s1_e17.txt:25:Monica: Well there's not much we can do.
+s1/s1_e17.txt:27:Monica: Hah, no no no no no no no no no no.
+s1/s1_e17.txt:29:Monica: (Looking around to check that no-one's listening, then lowering her voice anyway) That's insurance fraud.
+s1/s1_e17.txt:31:Monica: (Jumping up to make Rachel sit down) Okay, okay. I hate this.
+s1/s1_e17.txt:33:Monica: (to the nurse) Hi, (tiny laugh) um, I'm gonna need a new set of (tiny laugh) these forms (tiny laugh).
+s1/s1_e17.txt:35:Monica: (Tiny laugh) I am really an idiot. (Tiny laugh) you see, I was filling out my friend's form, and instead of putting her information, (tiny laugh) I put mine.
+s1/s1_e17.txt:37:Monica: (Tiny laugh) yep, that's me, (tiny laugh) I am that stupid (tiny laugh).
+s1/s1_e17.txt:70:Monica: Yes? (jumping as Rachel punches her arm) ..yes, she is.
+s1/s1_e17.txt:72:Monica (as Rachel): Hi.
+s1/s1_e17.txt:79:Monica (as Rachel): Thank you.
+s1/s1_e17.txt:83:Monica: Uh, you left out the stupid part.
+s1/s1_e17.txt:85:Monica: I think it's totally insane, I mean, they work for the hospital. It's like returning to the scene of the crime. You know, I say we blow off the dates.
+s1/s1_e17.txt:94:Monica: Come on, she'll be here any minute.
+s1/s1_e17.txt:98:Monica: Oh...
+s1/s1_e17.txt:100:Monica: Well maybe we can make a, a, a 'B' out of one of those roses.
+s1/s1_e17.txt:125:Monica: Rachel, the cute doctors are here.
+s1/s1_e17.txt:128:Monica: Hi, come on in.
+s1/s1_e17.txt:130:Monica: Hi, Geoffrey.
+s1/s1_e17.txt:136:Monica: It's uh...
+s1/s1_e17.txt:138:Monica (as Rachel): ..well, why don't you tell them? After all it, is your ankle.
+s1/s1_e17.txt:142:Monica: It will not be fine. We'll get in trouble.
+s1/s1_e17.txt:144:Monica: A wuss? Excuse me for living in the real world, okay?
+s1/s1_e17.txt:152:Monica: I said we are not going to do it, okay? Sometimes you can be such a, a big baby.
+s1/s1_e17.txt:154:Monica: Sure, every time, you're such a princess...
+s1/s1_e17.txt:156:Monica: What?
+s1/s1_e17.txt:158:Monica: What!?
+s1/s1_e17.txt:160:Monica: (getting angry) What!!?
+s1/s1_e17.txt:166:Monica: (as Rachel) Yeah... (joining the others) ..see, I was supposed to get married, but, um, I left the guy at the altar.
+s1/s1_e17.txt:169:Monica: (as Rachel) Yeah... Yeah, I know it's pretty selfish, but haha, hey, that's me. (Indicating a dish on the table) Why don't you try the hummus?
+s1/s1_e17.txt:176:Monica: (as Rachel) (Suddenly laughing) Oh, god, I am so spoiled... That's it!
+s1/s1_e17.txt:179:Monica: (as Rachel) I used to wet my bed.
+s1/s1_e17.txt:181:Monica: (as Rachel) (Revealing her anger to point at her best friend) We both do that!
+s1/s1_e17.txt:184:Monica: (as Rachel) Hi, Dad. No, no, it's me. (Getting up to move further away from Rachel) li-listen, Dad, I can't talk right now, um, but there's something, um... there's something that I've been meaning to tell you...
+s1/s1_e17.txt:187:Monica: (as Rachel) Remember back in freshman year? (Talking fast before Rachel can catch her) Well, Billy Dreskin and I had sex on your bed.
+s1/s1_e17.txt:193:Monica: Ross, he's got the remote again.
+s1/s1_e17.txt:202:Monica: I don't know! Why don't you just explain? What do they want? Find out what they want!
+s1/s1_e17.txt:204:Monica: (taking the phone) Hello, this is Monica... Yeah??? Oh... (Smiles at Rachel to reassure her) Okay, yes, we'll be right, we'll be right down.(Listens) Thank you. (Hangs up)
+s1/s1_e17.txt:206:Monica: We forgot to sign one of the admissions forms.
+s1/s1_e17.txt:208:Monica: Thank you.
+s1/s1_e17.txt:210:Monica: Yes.
+s1/s1_e17.txt:214:Monica: Hi.
+s1/s1_e17.txt:269:Monica: (as Rachel) Um, okay. You just called a little while ago about needing a signature on the admissions form. Well, it turns out we need a whole new one (little laugh) because uh, you see, I-I, I put the wrong name again. (Little laugh) 'cause um...
+s1/s1_e17.txt:271:Monica: (as Rachel) I am. I'm that stupid. (Little laugh.)
+s1/s1_e17.txt:295:Monica: What's goin' on?
+s1/s1_e17.txt:306:Monica: Michael.
+s1/s1_e17.txt:309:Monica: (as Rachel) Monica.
+s1/s1_e17.txt:311:Monica: (as Rachel) Hi.
+s1/s1_e17.txt:356:Monica: Oh, look, he's waking up!
+s1/s1_e17.txt:362:Monica: �A qui�n pidio el pollo General Tso? (Who ordered General Sal's chicken?)
+s1/s1_e17.txt:372:Monica: Mira, Ross, Marcel se llevo el control remoto. (Look, Ross, Marcel's got the remote.)
+s1/s1_e18.txt:5:Monica: Do you really want a job with Popular Mechanics?
+s1/s1_e18.txt:15:Monica: Hey, guys.
+s1/s1_e18.txt:18:Monica: Lots of responses.
+s1/s1_e18.txt:22:Monica: (reading): OK... Dear Ms. Green... yeah... yeah... yeah... No. (crumpes up letter)
+s1/s1_e18.txt:58:Monica: Oh, please, that is such a lame excuse!
+s1/s1_e18.txt:60:Monica: I mean, that's a typical guy response.
+s1/s1_e18.txt:67:Monica: So I wouldn't need any, right? Cause I have a straight.
+s1/s1_e18.txt:79:Monica: Alright, here we go. We've got salmon roulettes and assorted crudites.
+s1/s1_e18.txt:83:Monica: Alright, you know, we got it, we got it. Let's play for real. High stakes... big bucks...
+s1/s1_e18.txt:88:Monica: (throws down her cards) Dammit, dammit, dammit!
+s1/s1_e18.txt:102:Monica: Hell no, we'll pay!
+s1/s1_e18.txt:104:Monica: And you know what? We want a rematch.
+s1/s1_e18.txt:127:Monica: Yeah, I know. He can get really competitive.
+s1/s1_e18.txt:129:Monica: What?
+s1/s1_e18.txt:131:Monica: Please! I am not as bad as Ross.
+s1/s1_e18.txt:133:Monica: That was not an incident! I-I was gesturing, a-and the plate slipped out of my hand.
+s1/s1_e18.txt:135:Monica: You're kidding! Where? Where?
+s1/s1_e18.txt:137:Monica: Oh, Rachel!
+s1/s1_e18.txt:139:Monica: Well, what's the job?
+s1/s1_e18.txt:142:Monica: OK, look. That is Aunt Iris. This woman has been playing poker since she was five. You gotta listen to every word she says. (opens door) Hi!
+s1/s1_e18.txt:145:Monica: I don't think so.
+s1/s1_e18.txt:148:Monica: What?
+s1/s1_e18.txt:150:Monica: Really?
+s1/s1_e18.txt:154:Monica: Uh, Aunt Iris? This is Phoebe, and that's Rachel...
+s1/s1_e18.txt:169:Monica: OK, great. You'll tell us and we'll laugh. Let's play poker.
+s1/s1_e18.txt:173:Monica: Ha, ha, very funny, very funny. But I think we'd like to give poker another try. Shall we, ladies?
+s1/s1_e18.txt:189:Monica: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.
+s1/s1_e18.txt:194:Monica: OK, we done with the chit-chat? Are we ready to play some serious poker?
+s1/s1_e18.txt:197:Monica: Excuse me, where are you going?
+s1/s1_e18.txt:199:Monica: Do you want to go to the bathroom, or do you wanna play poker?
+s1/s1_e18.txt:204:Monica: Alright, Cincinnati, no blinds, everybody ante. (deals cards)
+s1/s1_e18.txt:215:Monica: Me too.
+s1/s1_e18.txt:226:Monica: (slams down cards) I hate this game!
+s1/s1_e18.txt:256:Monica: Sorry, Rach.
+s1/s1_e18.txt:261:Monica: Alright, check.
+s1/s1_e18.txt:285:Monica: Rachel, there's nothing in it.
+s1/s1_e18.txt:288:Monica: OK, here you go. Good luck.
+s1/s1_e18.txt:316:Monica: (pointing at the drawing, upset) Bye... bye... BIRDIE.
+s1/s1_e18.txt:329:Monica: That, you get? That, you get?
+s1/s1_e19.txt:8:Monica: Mail call, Rachel Green, bunk seven.
+s1/s1_e19.txt:10:Monica: Oh good! 'Cause where else would we get any?
+s1/s1_e19.txt:12:Monica: What is it?
+s1/s1_e19.txt:14:Monica: Barry who you almost...?
+s1/s1_e19.txt:16:Monica: And Mindy, your maid of...?
+s1/s1_e19.txt:18:Monica: (Takes it) That's Mindy? Wow, she is pretty. (Sees Rachel's look) Lucky. To have had a friend like you.
+s1/s1_e19.txt:32:Monica: Hi.
+s1/s1_e19.txt:35:Monica: Wonderful!
+s1/s1_e19.txt:41:Monica: There was nudity!
+s1/s1_e19.txt:43:Monica and Phoebe: Hugh! Hugh Grant!
+s1/s1_e19.txt:48:Monica: Oh, hang on, hang on. Does Aunt Monica get a say in this?
+s1/s1_e19.txt:67:Monica: Wait. He pooped in my shoe? Which one?
+s1/s1_e19.txt:69:Monica: Which ones?
+s1/s1_e19.txt:76:Monica: He- he pooped in my shoe.
+s1/s1_e19.txt:78:Monica: Those cute little black ones I wear all the time.
+s1/s1_e19.txt:84:Monica: Okay, we'll start with the building. You guys take the first and second floor, Phoebe and I'll take third and fourth.
+s1/s1_e19.txt:86:Monica: Okay, you stay here, and just wait by the phone. Spray Lysol in my shoe, and wait for Ross to kill you.
+s1/s1_e19.txt:91:Monica: Mr. Heckles, our friend lost a monkey. Have you seen it?
+s1/s1_e19.txt:93:Monica: No!
+s1/s1_e19.txt:96:Monica: A monkey. Have you seen a monkey?
+s1/s1_e19.txt:137:Monica: Hi. We checked the third and fourth floor, no-one's seen Marcel.
+s1/s1_e19.txt:143:Monica: Pheebs, you remember how we talked about saying things quietly to yourself first?
+s1/s1_e19.txt:145:Monica: Look. I'm sure there's some friendly way to reconcile this! Um, have a seat. First of all, we haven't been introduced, I'm Monica Geller.
+s1/s1_e19.txt:150:Monica: The Luisa from home room!
+s1/s1_e19.txt:153:Monica: No, none at all.
+s1/s1_e19.txt:156:Monica: Oh, I'm- I'm so sorry!
+s1/s1_e19.txt:159:Monica: Be that as it may, d'you think you could just help us out here on that monkey thing? Y'know, just for old times' sake? Go Bobcats?
+s1/s1_e19.txt:191:Monica: Marcel?
+s1/s1_e19.txt:195:Monica: Whaaat!
+s1/s1_e19.txt:197:Monica: What is it?
+s1/s1_e19.txt:200:Monica: Look, Phoebe!
+s1/s1_e19.txt:204:Monica: What're you gonna do?
+s1/s1_e19.txt:207:Monica: Run, Marcel, run! Run, Marcel! (Marcel runs off and Luisa runs after him. Monica goes to check up on Phoebe) Are you okay?
+s1/s1_e19.txt:209:Monica: Oh gosh.
+s1/s1_e19.txt:275:Monica: This is me in The Sound of Music. See the von Trapp kids?
+s1/s1_e19.txt:277:Monica: That's because I'm in front of them.
+s1/s1_e19.txt:279:Monica: Well, high school was not my favourite time.
+s1/s1_e19.txt:282:Monica: Gosh, doesn't it seem like a million years ago?
+s1/s1_e2.txt:4:Monica: What you guys don't understand is, for us, kissing is as important as any part of it.
+s1/s1_e2.txt:8:Monica: Absolutely.
+s1/s1_e2.txt:41:Monica: (taking a drink from Joey) Are you through with that?
+s1/s1_e2.txt:43:Monica: Whose little ball of paper is this?!
+s1/s1_e2.txt:47:Monica: Look , I'm sorry, guys, I just don't wanna give them any more ammunition than they already have.
+s1/s1_e2.txt:51:Monica: That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.
+s1/s1_e2.txt:53:Monica: What?
+s1/s1_e2.txt:62:Monica: Easy Rach, we'll find it. (To all) Won't we!
+s1/s1_e2.txt:70:Monica: You didn't.
+s1/s1_e2.txt:72:Monica: I gave you one job! (Starts to examin the lasagne through the bottom of the glass pan.)
+s1/s1_e2.txt:75:Monica: (puts down the lasagne) I just... can't do it.
+s1/s1_e2.txt:79:Monica: Wow. That is not a happy hi.
+s1/s1_e2.txt:82:Monica: W-w-wh-... wha-... w-w-w-...
+s1/s1_e2.txt:88:Monica: What does she mean by 'involved'?
+s1/s1_e2.txt:97:Monica: Curry.
+s1/s1_e2.txt:103:Monica: I'm sorry, why is this girl going to call me?
+s1/s1_e2.txt:105:Monica: No Mom, I don't have a restaurant, I work in a restaurant.
+s1/s1_e2.txt:107:Monica: Ross, could you come and help me with the spaghetti, please?
+s1/s1_e2.txt:110:Monica: I know this is going to sound unbelievably selfish, but, were you planning on bringing up the whole baby/lesbian thing? Because I think it might take some of the heat off me.
+s1/s1_e2.txt:115:Monica: What's that supposed to mean?
+s1/s1_e2.txt:117:Monica: No it's not.
+s1/s1_e2.txt:123:Monica: (trying desperately to change the subject) So, Ross, what's going on with you? Any stories? (Digs her elbow into his hand.) No news, no little anecdotes to share with the folks?
+s1/s1_e2.txt:131:Monica: Boy, I know they say you can't change your parents,... boy, if you could- (To Ross) -I'd want yours.
+s1/s1_e2.txt:139:Monica: Chandler, you're an only child, right? You don't have any of this.
+s1/s1_e2.txt:267:Monica: (welling up) Mm-hmm.
+s1/s1_e2.txt:269:Monica: No.
+s1/s1_e2.txt:271:Monica: Am not!
+s1/s1_e2.txt:273:Monica: (pushes him and starts to cry) Oh shut up!
+s1/s1_e20.txt:7:Monica: (looking out of the window) Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!
+s1/s1_e20.txt:15:Monica: So have you called her yet?
+s1/s1_e20.txt:18:Monica: I can't believe my parents are actually pressuring me to find one of you people.
+s1/s1_e20.txt:25:Monica: Look look! It's Rachel and Barry. No, don't everybody look at once!
+s1/s1_e20.txt:35:Monica: How'd it go?
+s1/s1_e20.txt:42:Monica: Rachel, what's going on? I mean isn't this the same Barry who you left at the altar?
+s1/s1_e20.txt:49:Monica: Okay, how about the fact that he's engaged to another woman, who just happens to be your ex-best friend?
+s1/s1_e20.txt:59:Monica: That's what you've been working on for the past two hours?!
+s1/s1_e20.txt:63:Monica: (looking out the window) Look look! He's doing it again, the guy with the telescope!
+s1/s1_e20.txt:65:Monica: Great, now he's waving back.
+s1/s1_e20.txt:67:Monica: What kinda stuff?
+s1/s1_e20.txt:98:Monica: Yeah.. uh, but for future reference, that thing in your hand can also be used as a phone.
+s1/s1_e20.txt:109:Monica: Y'see, this is where you'd use that 'hello' word we talked about.
+s1/s1_e20.txt:115:Monica: (wandering in after her) Uh, Rach... how come you have dental floss in your hair?
+s1/s1_e20.txt:117:Monica: Uh huh.
+s1/s1_e20.txt:119:Monica: You had sex in his chair?!... I said that a little too loudly, didn't I?
+s1/s1_e20.txt:139:Monica: Brrrrrrr!
+s1/s1_e20.txt:148:Monica: Relax. Y'know, she may not even know.
+s1/s1_e20.txt:157:Monica: Why don't you just take it with you?
+s1/s1_e20.txt:159:Monica: Why don't you just call her?
+s1/s1_e20.txt:161:Monica: Do you?
+s1/s1_e20.txt:163:Monica: Don't you have to pee?
+s1/s1_e20.txt:206:Monica: Just like you told her you did! (Chandler glares at her.) ... Just pointing out the irony.
+s1/s1_e20.txt:215:Monica: So she's a woman! So what?
+s1/s1_e20.txt:217:Monica: Joey!!
+s1/s1_e20.txt:219:Monica: The green dress? Really?
+s1/s1_e20.txt:221:Monica: (waves dismissively to Sidney) Nooo!
+s1/s1_e20.txt:251:Monica: You okay?
+s1/s1_e20.txt:253:Monica: Really?
+s1/s1_e20.txt:255:Monica: Aww... (They hug)
+s1/s1_e20.txt:276:Monica: Yeah, there you go!
+s1/s1_e21.txt:5:Monica: I have no idea. But look how much they spent!
+s1/s1_e21.txt:7:Monica: I know. It's just such reckless spending.
+s1/s1_e21.txt:10:Monica: That's me.
+s1/s1_e21.txt:14:Monica: Ross, you've got to do something about the humping.
+s1/s1_e21.txt:24:Monica: This woman's living my life.
+s1/s1_e21.txt:26:Monica: She's living my life, and she's doing it better than me! Look at this, look. She buys tickets for plays that I wanna see. She, she buys clothes from stores that I'm intimidated by the sales people. She spent three hundred dollars on art supplies.
+s1/s1_e21.txt:28:Monica: Yeah, well I might be if I had the supplies! I mean, I could do all this stuff. Only I don't.
+s1/s1_e21.txt:30:Monica: Oh really? Okay, let's compare, shall we.
+s1/s1_e21.txt:32:Monica: Do I go horseback riding in the park? Do I take classes at the New School?
+s1/s1_e21.txt:34:Monica: This is so unfair! She's got everything I want, and she doesn't have my mother.
+s1/s1_e21.txt:52:Monica: Hi. (On the phone) Hi, uh, yes, this is Monica Geller. Um, I believe I'm taking some classes with you and I was wondering what they were.
+s1/s1_e21.txt:54:Monica: (Hushes her) Alright, great. Thanks a lot. (Hangs up) I'm going to tap class.
+s1/s1_e21.txt:56:Monica: This woman's got my life, I should get to see who she is.
+s1/s1_e21.txt:60:Monica: What d'you think?
+s1/s1_e21.txt:66:Monica: Oh, no thanks, we're just here to observe.
+s1/s1_e21.txt:70:Monica: Okay, d'y'see anybody you think could be me?
+s1/s1_e21.txt:76:Monica: Okay, I'm not getting this!
+s1/s1_e21.txt:78:Monica: Did you ever feel like sometimes you are just so unbelievably uncoordinated?
+s1/s1_e21.txt:84:Monica: Great. It's gym class all over again.
+s1/s1_e21.txt:87:Monica: Why don't I just take off my clothes and have a nightmare.
+s1/s1_e21.txt:92:Monica: Oh. Monica! ...Hi. I'm Mo- ...nana.
+s1/s1_e21.txt:94:Monica: Yeah. It's Dutch.
+s1/s1_e21.txt:96:Monica: Um, Pennsylvania Dutch.
+s1/s1_e21.txt:127:Monica: Y'know what? After you're with this woman for like ten minutes, you forget all that. I mean, she is this astounding person, with this, with this amazing spirit.
+s1/s1_e21.txt:134:Monica: It was so wild. We told them we were the Gunnersens in room six fifteen. Only to find out the Boston Celtics had taken over the entire sixth floor!
+s1/s1_e21.txt:136:Monica: ...They threw us out! I was thrown out of a hotel! Me!
+s1/s1_e21.txt:139:Monica: 'Scuse me?
+s1/s1_e21.txt:141:Monica: Nononononono. Think who you're dealing with here. I mean, I'm not like you. I-I can't even stand in front of a tap class.
+s1/s1_e21.txt:143:Monica: What?
+s1/s1_e21.txt:145:Monica: Right. Till I bought a blow dryer, then I was shunned.
+s1/s1_e21.txt:147:Monica: Uh-huh.
+s1/s1_e21.txt:149:Monica: Wow. Then I would definitely not recommend Mrs. Doubtfire.
+s1/s1_e21.txt:181:Monica: Yo- hooo!
+s1/s1_e21.txt:183:Monica: Monica and I just crashed an embassy party.
+s1/s1_e21.txt:185:Monica: Noooo! (Comes closer and whispers) I'm lying. I am so drunk.
+s1/s1_e21.txt:189:Monica: Water rules!
+s1/s1_e21.txt:191:Monica: Nope. Going to the Big Apple Circus today.
+s1/s1_e21.txt:193:Monica: No, it is me! Y'know, I'm not just the person who needs to fluff the pillows and pay the bills as soon as they come in! Y'know, when I'm with her, I am so much more than that. I'm- I'm Monana!
+s1/s1_e21.txt:196:Monica: Helloooo? Yeah. Oh my God. Thanks.
+s1/s1_e21.txt:198:Monica: They've arrested Monica.
+s1/s1_e21.txt:200:Monica: Hi.
+s1/s1_e21.txt:202:Monica: How are you?
+s1/s1_e21.txt:204:Monica: Because... I'm Monica Geller. It was my credit card you were using.
+s1/s1_e21.txt:206:Monica: I want you to know, it wasn't me who turned you in.
+s1/s1_e21.txt:208:Monica: No, thank you! You have given me so much! I mean, if it wasn't for you, I would never have gotten to sing Memories on the stage at the Wintergarden Theater!
+s1/s1_e21.txt:210:Monica: I just can't believe you're in here. I mean, what am I gonna do without you? Who's gonna crash the embassy parties with me? Who's gonna take me to the Big Apple Circus?
+s1/s1_e21.txt:212:Monica: Well, not... worried, just... wondering.
+s1/s1_e21.txt:214:Monica: Not necessarily...
+s1/s1_e21.txt:216:Monica: Um, I'm not actually Amish.
+s1/s1_e21.txt:220:Monica: In. (She joins in the dancing. She still flounders)
+s1/s1_e21.txt:222:Monica: Yeah, but at least I'm doing it!
+s1/s1_e22.txt:4:Monica: Tell him.
+s1/s1_e22.txt:7:Monica: Just...please tell him.
+s1/s1_e22.txt:10:Monica: Look at you, you won't even look at him.
+s1/s1_e22.txt:48:Monica: Is it like for dinosaur emergencies. 'Help, come quick, they're still extinct.'
+s1/s1_e22.txt:51:Monica: All right, I'll see you guys later. (raises)
+s1/s1_e22.txt:53:Monica: Thank you.
+s1/s1_e22.txt:55:Monica: He's... our age.
+s1/s1_e22.txt:57:Monica: Okay, he's a senior in college.
+s1/s1_e22.txt:60:Monica: No, of course not. It's not even an issue. Cause I told him I was 22.
+s1/s1_e22.txt:62:Monica: Oh, I can't pass for 22?
+s1/s1_e22.txt:64:Monica: I am 26.
+s1/s1_e22.txt:88:Monica: Windows are clean, candels are lit. Uh, belt's to tight, gotta change the belt. Did I turn the fish? (goes over to the kitchen to check on the dinner) No, cause I made lasagne. (to Rachel) Am I out of control?
+s1/s1_e22.txt:90:Monica: What?
+s1/s1_e22.txt:92:Monica: I don't know. Look he's a great guy and I love being with him but... you know. Things happen, and they happen. You don't plan these things.
+s1/s1_e22.txt:94:Monica: Yeah.
+s1/s1_e22.txt:137:Monica: Did not.
+s1/s1_e22.txt:139:Monica: How was that possible?
+s1/s1_e22.txt:141:Monica: Okay.
+s1/s1_e22.txt:144:Monica: Unless...
+s1/s1_e22.txt:146:Monica: Uh, ah. Unless you wanna stay over? I mean, I'm going to, so...
+s1/s1_e22.txt:150:Monica: Okay, is this like 'I have an early class tomorrow' or 'I'm secretly married to a goat?'
+s1/s1_e22.txt:152:Monica: Ethan?
+s1/s1_e22.txt:154:Monica: Are you a virgin?
+s1/s1_e22.txt:156:Monica: Really?
+s1/s1_e22.txt:161:Monica: You keep saying that.
+s1/s1_e22.txt:164:Monica: Listen, uh, you told me something that was really difficult for you. And I, I-I figured if you could be honest, then I can to.
+s1/s1_e22.txt:166:Monica: No-no. Nothing wrong about that.
+s1/s1_e22.txt:168:Monica: Um, okay, here it goes. I'm not 22. I'm, I'm 25... and thirteen months.
+s1/s1_e22.txt:170:Monica: But I figured, you know, that shouldn't change anything. I mean, what the hell does it matter how old we are.
+s1/s1_e22.txt:173:Monica: You're not a senior?
+s1/s1_e22.txt:175:Monica: Ok...ay.
+s1/s1_e22.txt:178:Monica: What we did was wrong. Oh god, I just had sex with somebody that wasn't alive during the Bicentennial.
+s1/s1_e22.txt:180:Monica: Ethan, focus. How could you not tell me?
+s1/s1_e22.txt:182:Monica: Well, that's different. My lie didn't make one of us a felon in 48 states. What were you thinking?
+s1/s1_e22.txt:184:Monica: Don't say it. (closes Ethan's mouth with her hand)
+s1/s1_e22.txt:186:Monica: Really?
+s1/s1_e22.txt:188:Monica: Well,fall out of it. You know, you shouldn't even be here, it's a school night. Oh god, oh god. I'm like those women that you see with shiny guys named Chad. I'm Joan Collins.
+s1/s1_e22.txt:213:Monica: What?
+s1/s1_e22.txt:215:Monica: Oh.
+s1/s1_e22.txt:217:Monica: No. You know, sometimes just things doesn't work out.
+s1/s1_e22.txt:224:Monica: Ha,ha, ha, oh my life is just so amusing. Could we drop it now?
+s1/s1_e22.txt:257:Monica: Aren't you gonna...
+s1/s1_e22.txt:263:Monica: That was gonna be my opener.
+s1/s1_e22.txt:270:Monica: It was.
+s1/s1_e22.txt:272:Monica: Ethan, it's um... it's icky.
+s1/s1_e22.txt:274:Monica: This isn't easy for me either. I wish things were different, I... If you were a few years older, or if I was a few years younger, or if we lived in biblical times, I would really...
+s1/s1_e22.txt:276:Monica: ...love you.
+s1/s1_e22.txt:326:Monica: I can't belive it, I'm gonna be an aunt. I'm gonna have like a nephew.
+s1/s1_e23.txt:7:Monica: I'm sure everything's fine. Has her water broke yet?
+s1/s1_e23.txt:11:Monica: Joey, what are you gonna do when you have a baby?
+s1/s1_e23.txt:22:Monica: What's with the guitar?
+s1/s1_e23.txt:58:Monica: I want a baby.
+s1/s1_e23.txt:60:Monica: Get up. Come on. Let's get some coffee.
+s1/s1_e23.txt:94:Monica: No fair. I don't even have one. How come they get two?
+s1/s1_e23.txt:96:Monica: Oh yeah? When?
+s1/s1_e23.txt:98:Monica: Why won't I be married when I'm 40?
+s1/s1_e23.txt:100:Monica: Ok, hypothetically, why won't I be married when I'm 40?
+s1/s1_e23.txt:102:Monica: What is it? Is there something fundamentally unmarriable about me?
+s1/s1_e23.txt:104:Monica: Well?
+s1/s1_e23.txt:109:Monica: Did you go home and change?
+s1/s1_e23.txt:111:Monica: No, I haven't seen him.
+s1/s1_e23.txt:211:Monica: Now, Mom, everything's going fine, really. (Listens) Yeah, Ross is great. He's uh, he's in a whole other place. (Listens) No, he's gone. (Listens) No no, you don't have to fly back, really. (Listens) What do you mean this might be your only chance? (Listens) Would you stop? I'm only 26, I'm not even thinking about babies yet.
+s1/s1_e23.txt:249:Monica: I'm sure they'll be here soon.
+s1/s1_e23.txt:304:Monica: Hi.
+s1/s1_e23.txt:306:Monica: Can we come in?
+s1/s1_e23.txt:313:Monica: Ross, can I?
+s1/s1_e23.txt:316:Monica: (getting choked up) Hi, Ben. Hi. I'm your Aunt Monica. Yes I am. I'm your Aunt Monica. I...I will always have gum.
+s1/s1_e23.txt:323:Monica: He is so amazing.
+s1/s1_e24.txt:5:Monica: Awww, look at Aunt Monica's little boy!
+s1/s1_e24.txt:24:Monica: Oh, Joey, please tell me you're only donating your time.
+s1/s1_e24.txt:29:Monica: OK, we got the cole slaw, we got the buns...
+s1/s1_e24.txt:35:Monica and Phoebe: Ewww!
+s1/s1_e24.txt:36:Monica: Oh Joey, Melanie called, said she's gonna be late.
+s1/s1_e24.txt:40:Monica: Yeah? What does she think of your little science project?
+s1/s1_e24.txt:42:Monica: Man's got a point.
+s1/s1_e24.txt:46:Monica: Joey... we always know what you mean.
+s1/s1_e24.txt:49:Monica: Hey.
+s1/s1_e24.txt:54:Monica: You're going to China?
+s1/s1_e24.txt:58:Monica: Yeah.
+s1/s1_e24.txt:62:Monica: Oh no, she's out having drinks with Carl.
+s1/s1_e24.txt:64:Monica: You know, that guy she met at the coffeehouse.
+s1/s1_e24.txt:93:Monica: (gets up) OK, how does everybody like their burgers?
+s1/s1_e24.txt:96:Monica: Hey, hold on there, tiger. How's it going? How you holding up?
+s1/s1_e24.txt:100:Monica: So, uh, have you ever thought about being there for her?
+s1/s1_e24.txt:102:Monica: Y'know, just be there for her.
+s1/s1_e24.txt:105:Monica: Think about it.
+s1/s1_e24.txt:126:Monica: I can't believe he did this.
+s1/s1_e24.txt:143:Monica: I think this is so great! I mean, you and Ross! D-did you have any idea?
+s1/s1_e24.txt:149:Monica: No, no, wait. (checks Ross's itinerary) His flight doesn't leave for another forty-five more minutes.
+s1/s1_e24.txt:151:Monica: From here to the airport?
+s1/s1_e24.txt:153:Monica: Rachel, what're you gonna say to him?
+s1/s1_e24.txt:157:Monica: Yeah, but if it's good news, you should tell him now.
+s1/s1_e24.txt:198:Monica: Uh, so, uh, Rach, uh... do you wanna save this wrapping paper, I mean, it's only a little bit torn... so are you gonna go for it with Ross or should I just throw it out?
+s1/s1_e24.txt:200:Monica and Phoebe: Sure.
+s1/s1_e24.txt:202:Monica: Oh my God, me too! Oh! Oh, we'd be like friends-in-law! Y'know what the best part is? The best part is that you already know everything about him! I mean, it's like starting on the fifteenth date!
+s1/s1_e24.txt:204:Monica: Another good point.
+s1/s1_e24.txt:208:Monica: Why isn't it working out?
+s1/s1_e24.txt:210:Monica: Is he not cute enough for you?
+s1/s1_e24.txt:212:Monica: Does he not make enough money?
+s1/s1_e24.txt:216:Monica: Is there? Is there someone else?
+s1/s1_e24.txt:218:Monica: Then why the hell are you dumping my brother?!?
+s1/s1_e24.txt:233:Monica: Hey, great skirt! Birthday present?
+s1/s1_e24.txt:235:Monica: Oh, from who?
+s1/s1_e24.txt:237:Monica: Well, it's the thought. Hey, doesn't Ross's flight get in in a couple hours? At gate 27-B?
+s1/s1_e24.txt:239:Monica: Oh, why?
+s1/s1_e24.txt:241:Monica: (gets up) No, no, no, no, no, no pressure, no pressure!
+s1/s1_e24.txt:243:Monica: I am not 'so'! OK, I was a teensy bit weird at first, but... I'll be good. I promise.
+s1/s1_e24.txt:248:Monica: Behind my brother's back? (Rachel glares at her) ... is exactly the kind of crazy thing you won't be hearing from me.
+s1/s1_e3.txt:10:Monica: Uh, no. Loosely translated 'We should do this again' means 'You will never see me naked'.
+s1/s1_e3.txt:19:Monica: Uh, Ross.
+s1/s1_e3.txt:49:Monica: No, no, no. They say it's the same as the distance from the tip of a guy's thumb to the tip of his index finger.
+s1/s1_e3.txt:59:Monica: What did they do to you?
+s1/s1_e3.txt:69:Monica: We're with you. We got it.
+s1/s1_e3.txt:73:Monica: (puling him up) Hey. Whaddya doing?
+s1/s1_e3.txt:85:Monica: Alright. I'm gonna go change, I've got a date.
+s1/s1_e3.txt:87:Monica: 'S'going pretty good, y'know? It's nice, and, we're having fun.
+s1/s1_e3.txt:89:Monica: Let's see, today's Monday... Never.
+s1/s1_e3.txt:91:Monica: No. Not after what happened with Steve.
+s1/s1_e3.txt:93:Monica: Look, I don't even know how I feel about him yet. Just give me a chance to figure that out.
+s1/s1_e3.txt:95:Monica: Nope. Schhorry.
+s1/s1_e3.txt:97:Monica: I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd.
+s1/s1_e3.txt:99:Monica: I know. I just wish that once, I'd bring a guy home that they actually liked.
+s1/s1_e3.txt:104:Monica: Do you all promise?
+s1/s1_e3.txt:106:Monica: (shouts to Chandler) Chandler? Do you promise to be good?
+s1/s1_e3.txt:115:Monica: Hey. It's him. (On the intercom) Who is it?
+s1/s1_e3.txt:119:Monica: (to all) Okay, please be good, please. Just remember how much you all like me.
+s1/s1_e3.txt:121:Monica: Hi. Alan, this is everybody. Everybody, this is Alan.
+s1/s1_e3.txt:127:Monica: (to Alan) Thanks. I'll call you tomorrow. (Alan exits, to all) Okay. Okay, let's let the Alan-bashing begin. Who's gonna take the first shot, hmm?
+s1/s1_e3.txt:129:Monica: C'mon!
+s1/s1_e3.txt:132:Monica: Wait a minute! We're talking about someone that I'm going out with?
+s1/s1_e3.txt:143:Monica: Really!
+s1/s1_e3.txt:151:Monica: Hi.. how was the game?
+s1/s1_e3.txt:154:Monica: Fantastic! I have one question: How is that possible?
+s1/s1_e3.txt:159:Monica: Can I ask you guys a question? D'you ever think that Alan is maybe.. sometimes..
+s1/s1_e3.txt:161:Monica: ..I dunno, a little too Alan?
+s1/s1_e3.txt:204:Monica: Oh, why is it unfair?
+s1/s1_e3.txt:220:Monica: Did you ever go out with a guy your friends all really like?
+s1/s1_e3.txt:222:Monica: Okay.. Well, I'm going out with a guy my friends all really like.
+s1/s1_e3.txt:224:Monica: Can you believe it? ...Y'know what? I just don't feel the thing. I mean, they feel the thing, I don't feel the thing.
+s1/s1_e3.txt:226:Monica: I know.. it's gonna be really hard.
+s1/s1_e3.txt:228:Monica: No, he'll be fine. It's the other five I'm worried about.
+s1/s1_e3.txt:242:Monica: (entering) Hey. Where's Joey?
+s1/s1_e3.txt:245:Monica: Thanks. (Goes to fetch him.)
+s1/s1_e3.txt:255:Monica: Nothing. I just think it's nice when we're all here together.
+s1/s1_e3.txt:259:Monica: (turns off the TV) Okay..
+s1/s1_e3.txt:261:Monica: Please, guys, we have to talk.
+s1/s1_e3.txt:263:Monica: Alright, we have to talk.
+s1/s1_e3.txt:265:Monica: Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.
+s1/s1_e3.txt:268:Monica: No, nononono.. it's just.. things change. People change.
+s1/s1_e3.txt:272:Monica: Look, I- I could go on pretending-
+s1/s1_e3.txt:274:Monica: -but that wouldn't be fair to me, it wouldn't be fair to Alan- It wouldn't be fair to you!
+s1/s1_e3.txt:276:Monica: I'm sorry..
+s1/s1_e3.txt:279:Monica: I'll meet somone else. There'll be other Alans.
+s1/s1_e3.txt:281:Monica: Are you guys gonna be okay?
+s1/s1_e3.txt:283:Monica: (dubious) I understand.
+s1/s1_e3.txt:286:Monica: I'm, I'm really sorry.
+s1/s1_e3.txt:288:Monica: Relieved?
+s1/s1_e3.txt:294:Monica: (entering) Hi.
+s1/s1_e3.txt:297:Monica: Oh, y'know..
+s1/s1_e3.txt:299:Monica: He said he's really gonna miss you guys. (dubious look)
+s1/s1_e4.txt:4:Monica: Alright. Phoebe?
+s1/s1_e4.txt:10:Monica: Hey, Joey, what would you do if you were omnipotent?
+s1/s1_e4.txt:12:Monica: ..Excuse me?
+s1/s1_e4.txt:18:Monica: How does she do that?
+s1/s1_e4.txt:20:Monica: Would you look at her? She is so peaceful.
+s1/s1_e4.txt:23:Monica: What's going on with you?
+s1/s1_e4.txt:27:Monica: Well, if you want, you can stay with Rachel and me tonight.
+s1/s1_e4.txt:40:Monica: Oh, I was hoping you wouldn't remember.
+s1/s1_e4.txt:55:Monica: Wow, you worked in a mine?
+s1/s1_e4.txt:61:Monica: Yeah, yeah.
+s1/s1_e4.txt:68:Monica: (to Phoebe) I swear I've seen birds do this on Wild Kingdom.
+s1/s1_e4.txt:106:Monica: Hey, Rach. How was it with your friends? (She and Phoebe scream.) Okay! How would you like some Tiki Death Punch? (She pours the contents of the blender into some glasses.)
+s1/s1_e4.txt:108:Monica: Weeeell, it's rum, and-
+s1/s1_e4.txt:110:Monica: We thought since Phoebe was staying over tonight we'd have kinda like a slumber party thing. We got some trashy magazines, we got cookie dough, we got Twister... (The phone rings and Monica answers it.)
+s1/s1_e4.txt:112:Monica: Uh, Rach, it's the Visa card people.
+s1/s1_e4.txt:114:Monica: (on phone) Could you please tell me what this is in reference to? (Listens) Yes, hold on. (To Rachel) Um, they say there's been some unusual activity on your account.
+s1/s1_e4.txt:116:Monica: That is the unusual activity. Look, they just wanna see if you're okay.
+s1/s1_e4.txt:118:Monica: (pauses then on the phone) Uh- Rachel has left the building, can you call back?
+s1/s1_e4.txt:126:Monica: You should feel great about yourself! You're doing this amazing independence thing!
+s1/s1_e4.txt:131:Monica: Ah, the other Jack.
+s1/s1_e4.txt:138:Monica: So what, you're not the only one. I mean, half the time we don't know where we're going. You've just gotta figure at some point it's all gonna come together, and it's just gonna be... un-floopy.
+s1/s1_e4.txt:141:Monica: ...Pheebs?
+s1/s1_e4.txt:166:Monica: No, you were right. I don't have a plan. (There's a knock on the door.)
+s1/s1_e4.txt:169:Monica: Phoebe?
+s1/s1_e4.txt:171:Monica: Do you have a plan?
+s1/s1_e4.txt:176:Monica: (leaping off of the couch and runs up) Wait! Did you say 'G.Stephanopoulos?'
+s1/s1_e4.txt:178:Monica: Wait, was this a-a small mediterranean guy with curiously intelligent good looks?
+s1/s1_e4.txt:180:Monica: Was he wearing a stunning blue suit?
+s1/s1_e4.txt:183:Monica: (staggered) Oh God.
+s1/s1_e4.txt:185:Monica: Are you nuts?! We've got George Stephanopoulos' pizza! (Rachel pays him, Monica grabs some binoculars, and runs to the window.)
+s1/s1_e4.txt:188:Monica: I see pizza!
+s1/s1_e4.txt:191:Monica: White House adviser? Clinton's campaign guy? The one with the great hair, sexy smile, really cute butt?
+s1/s1_e4.txt:194:Monica: Please tell me it's his mother.
+s1/s1_e4.txt:196:Monica: Oh, no...
+s1/s1_e4.txt:201:Monica: Light still out?
+s1/s1_e4.txt:203:Monica: Oh. Maybe they're- napping.
+s1/s1_e4.txt:205:Monica and Phoebe: Shut up!
+s1/s1_e4.txt:207:Monica: I think he's shy.
+s1/s1_e4.txt:209:Monica: Yeah. I think you have to draw him out. And then- when you do- he's a preppy animal.
+s1/s1_e4.txt:225:Monica: Okay. Okay, I got one. Do you remember that vegetarian pate that I made that you loved so much?
+s1/s1_e4.txt:227:Monica: Well, unless goose is a vegetable...ha haaaah!
+s1/s1_e4.txt:229:Monica: What?! You slept with Jason?
+s1/s1_e4.txt:233:Monica: Oh, that's nice!
+s1/s1_e4.txt:235:Monica: Excuse me?!
+s1/s1_e4.txt:237:Monica: Really. Well, at least 'big girls' don't pee in their pants in seventh grade!
+s1/s1_e4.txt:240:Monica: Where?
+s1/s1_e4.txt:243:Monica: Oh, George, baby, drop the towel!
+s1/s1_e4.txt:269:Monica: Could've played Monopoly, but nooooo.
+s1/s1_e5.txt:5:Monica: Would you let it go? It's not that big a deal.
+s1/s1_e5.txt:19:Monica: Chandler, nobody likes breaking up with someone. You just gotta do it.
+s1/s1_e5.txt:26:Monica: Oh, you're breaking up with Tony?
+s1/s1_e5.txt:35:Monica: Did he give you that whole "You're-not-up-to-this" thing again?
+s1/s1_e5.txt:42:Monica: Wow, being dumped by you obviously agrees with her.
+s1/s1_e5.txt:71:Monica: Forget it. Not after your cousin who could belch the alphabet.
+s1/s1_e5.txt:73:Monica: (looking out window) Oh, god help us.
+s1/s1_e5.txt:75:Monica: Ugly Naked Guy's laying kitchen tile. Eww!
+s1/s1_e5.txt:77:Monica: What's going on here? You go out with tons of girls.
+s1/s1_e5.txt:93:Monica: Thank you. So what does this Bob guy look like? Is he tall? Short?
+s1/s1_e5.txt:95:Monica: Which?
+s1/s1_e5.txt:97:Monica: You've never met Bob, have you?
+s1/s1_e5.txt:99:Monica: Oh my god, Joey, for all we know this guy could be horribly...
+s1/s1_e5.txt:102:Monica: ...horribly attractive. I'll be shutting up now.
+s1/s1_e5.txt:165:Monica: (to Joey) He is so cute. (to Angela and Bob) So, where did you guys grow up?
+s1/s1_e5.txt:168:Monica: How, how did that happen?
+s1/s1_e5.txt:170:Monica: What?
+s1/s1_e5.txt:181:Monica: I've gotta tell you, Bob is terrific.
+s1/s1_e5.txt:183:Monica: It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.
+s1/s1_e5.txt:185:Monica: Wow. My brother never even told me when he lost his virginity.
+s1/s1_e5.txt:206:Monica: Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?
+s1/s1_e5.txt:208:Monica: Oh my god.
+s1/s1_e5.txt:210:Monica: Hello! Were we at the same table? It's like... cocktails in Appalachia.
+s1/s1_e5.txt:212:Monica: Close? She's got her tongue in his ear.
+s1/s1_e5.txt:214:Monica: Joey, this is sick, it's disgusting, it's, it's—not really true, is it?
+s1/s1_e5.txt:216:Monica: Oh my god, what were you thinking?
+s1/s1_e5.txt:218:Monica: (hits him lightly) Oh!
+s1/s1_e5.txt:220:Monica: (leaving) I'm outta here.
+s1/s1_e5.txt:222:Monica: Really?
+s1/s1_e5.txt:225:Monica: I'm so sorry, I can't believe I did this, but I couldn't stop laughing at your Norman Mailer story.
+s1/s1_e5.txt:277:Monica: Hi.
+s1/s1_e5.txt:280:Monica: We ripped that couple apart, and kept the pieces for ourselves.
+s1/s1_e5.txt:282:Monica: (notices his head) Oh, I'm sorry.
+s1/s1_e6.txt:18:Monica: Did anybody else feel they just wanted to peel the skin off their body, to have something else to do?
+s1/s1_e6.txt:26:Monica: Well, go over to her! She's not with anyone.
+s1/s1_e6.txt:33:Monica: You could do that!
+s1/s1_e6.txt:60:Monica: Oh, right, right. How was your date, 'Chand-lrr'?
+s1/s1_e6.txt:85:Monica: Oh. I'm sorry it didn't work out.
+s1/s1_e6.txt:87:Monica: Didn't you listen to the story? I mean, this is twisted! How could you get involved with a woman like this?
+s1/s1_e6.txt:91:Monica: What? So you guys don't mind going out with someone else who's going out with someone else?
+s1/s1_e6.txt:93:Monica: Good for you, Joey.
+s1/s1_e6.txt:98:Monica: We're kidding. C'mon, tell us!
+s1/s1_e6.txt:109:Monica: ...Oh! I-I see you moved the green ottoman.
+s1/s1_e6.txt:111:Monica: How-how did that happen?
+s1/s1_e6.txt:113:Monica: Yeah, yeah, it's interesting.. but y'know what? Just for fun, let's see what it looked like in the old spot. (She moves it.) Alright, just to compare. Let's see. Well, it looks good there too. Let's just leave it there for a while.
+s1/s1_e6.txt:116:Monica: You guys, I am not that bad!
+s1/s1_e6.txt:118:Monica: That is so unfair!
+s1/s1_e6.txt:120:Monica: Okay, so I'm responsible, I'm organised. But hey, I can be a kook.
+s1/s1_e6.txt:122:Monica: Why not?
+s1/s1_e6.txt:124:Monica: I could do that.
+s1/s1_e6.txt:126:Monica: Why would someone do that?! ...One might wonder.
+s1/s1_e6.txt:128:Monica: STOP IT!! ...Oh my God. It's true! Who am I?
+s1/s1_e6.txt:135:Monica: Well, what's the part?
+s1/s1_e6.txt:143:Monica: (trying not to laugh) Oh my God.
+s1/s1_e6.txt:150:Monica: Alright, alright, alright...
+s1/s1_e6.txt:153:Monica: For what?
+s1/s1_e6.txt:155:Monica: Oh my God. Okay, go into the bathroom, use whatever you want, just don't ever tell me what you did in there.
+s1/s1_e6.txt:159:Monica: He's in the bathroom. I don't think you wanna go in there!
+s1/s1_e6.txt:161:Monica: I warned you...
+s1/s1_e6.txt:165:Monica: Oh, you got the whole night, huh?
+s1/s1_e6.txt:169:Monica: Sure. Oh, um, Chandler? Y'know, the-the old Monica would-would remind you to scrub that Teflon pan with a plastic brush...But I'm not gonna do that.
+s1/s1_e6.txt:228:Monica: Hey, waitwait, aren't you the guy that plays the butt in the new Al Pacino movie?
+s1/s1_e6.txt:240:Monica: Maybe this wasn't your shot.
+s1/s1_e6.txt:246:Monica: I'm sorry, Joey. I'm gonna go to bed, guys.
+s1/s1_e6.txt:249:Monica: (determined) Uh-huh!
+s1/s1_e6.txt:251:Monica: Doesn't matter, I'll get 'em tomorrow. Or not. Whenever. (He goes to her room.)
+s1/s1_e6.txt:255:Monica: (hums for a while, then gives up, and in her head) If it bothers you that much, just go out and get the shoes. No. Don't do this. This is stupid! I don't have to prove anything, I'm gonna go get them...But then everyone will know. Unless I get them, and then wake up really early and put them back! ...I need help! (She buries her head in her pillow.)
+s1/s1_e7.txt:12:Monica: Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.
+s1/s1_e7.txt:14:Monica: (into phone) Pants and a sweater? Why, mom? Who am I gonna meet in a blackout? Power company guys? Eligible looters? Could we talk about this later? OK. (hangs up)
+s1/s1_e7.txt:43:Monica: Hello?
+s1/s1_e7.txt:45:Monica: (to everyone) It's Chandler! (on phone) Are you OK?
+s1/s1_e7.txt:47:Monica: What?
+s1/s1_e7.txt:49:Monica: I have no idea what you just said.
+s1/s1_e7.txt:57:Monica: OK, I'll go. OK, senior year of college... on a pool table.
+s1/s1_e7.txt:61:Monica: Oh my God! What were you doing in a library?
+s1/s1_e7.txt:70:Monica: You did not go!
+s1/s1_e7.txt:130:Monica: Outside.
+s1/s1_e7.txt:132:Monica: Why not?
+s1/s1_e7.txt:134:Monica: And that would be?
+s1/s1_e7.txt:136:Monica: Joey, what's going on?
+s1/s1_e7.txt:138:Monica: About what?
+s1/s1_e7.txt:140:Monica: Oh my God! I love him!
+s1/s1_e7.txt:143:Monica: My surprise party!
+s1/s1_e7.txt:145:Monica: Oh stop it. Joey already told me.
+s1/s1_e7.txt:149:Monica: No, you are not. We tell you stuff.
+s1/s1_e7.txt:161:Monica, Joey, and Phoebe: (singing) I'm on top of the world, looking down on creation and the only explanation I can find, is the wonders I've found ever since...
+s1/s1_e7.txt:163:Monica: (to Ross) This is just Bactine. It won't hurt.
+s1/s1_e7.txt:192:Monica: (smitten) Hi!
+s1/s1_e7.txt:194:Monica: Hi!
+s1/s1_e7.txt:196:Monica: Hi!
+s1/s1_e7.txt:232:Monica: If you want, I'll do it.
+s1/s1_e8.txt:22:Monica: I did.
+s1/s1_e8.txt:34:Monica: Okay, I-I d'know, you-you just- you have a quality.
+s1/s1_e8.txt:38:Monica: Hello? Hello? Oh! Rachel, it's Paolo calling from Rome.
+s1/s1_e8.txt:42:Monica: Hey dad, what's up? (Listens) Oh God. Ross, it's Nana.
+s1/s1_e8.txt:46:Monica: How-how are you, Mom?
+s1/s1_e8.txt:48:Monica: What?
+s1/s1_e8.txt:50:Monica: Nothing.
+s1/s1_e8.txt:53:Monica: She is unbelievable, our mother is...
+s1/s1_e8.txt:55:Monica: Oh God!
+s1/s1_e8.txt:58:Monica: The fuzzy little mints at the bottom of her purse.
+s1/s1_e8.txt:65:Monica: I know.
+s1/s1_e8.txt:67:Monica: G'bye, Nana. (She kisses her on the forehead.)
+s1/s1_e8.txt:70:Monica: Ross!
+s1/s1_e8.txt:98:Monica: We checked. A lot.
+s1/s1_e8.txt:115:Monica: Dad!
+s1/s1_e8.txt:117:Monica: You what?
+s1/s1_e8.txt:119:Monica: Define fun.
+s1/s1_e8.txt:121:Monica: ...And then we throw your body in the water... Gee, that does sound fun.
+s1/s1_e8.txt:123:Monica: That's probably what they'll say.
+s1/s1_e8.txt:166:Monica: Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?
+s1/s1_e8.txt:172:Monica: Are these the shoes?
+s1/s1_e8.txt:179:Monica: It was a really beautiful service.
+s1/s1_e8.txt:209:Monica: Wow, those pills really worked, huh?
+s1/s1_e8.txt:230:Monica: Well, sure, what with it being her funeral and all.
+s1/s1_e8.txt:232:Monica: That sounds like Nana.
+s1/s1_e8.txt:234:Monica: ...I can imagine.
+s1/s1_e8.txt:236:Monica: That is a wonder. So tell me something, Mom. If you had to do it all over again, I mean, if she was here right now, would you tell her?
+s1/s1_e8.txt:238:Monica: How she drove you crazy, picking on every little detail, like your hair... for example.
+s1/s1_e8.txt:240:Monica: Do you think things would have been better if you'd just told her the truth?
+s1/s1_e8.txt:242:Monica: Huh.
+s1/s1_e8.txt:244:Monica: Oh, I think so.
+s1/s1_e8.txt:246:Monica: Thank you. They're yours.
+s1/s1_e8.txt:257:Monica: Oh, that's Nana, right there in the middle. (Reads the back) 'Me and the gang at Java Joe's'.
+s1/s1_e8.txt:259:Monica: Let's see, 1939... yeah, 24, 25?
+s1/s1_e9.txt:15:Monica: Hey. Ross, did you know Mom and Dad are going to Puerto Rico for Thanksgiving?
+s1/s1_e9.txt:17:Monica: Yes, they are. The Blymens invited them.
+s1/s1_e9.txt:19:Monica: I am not wrong.
+s1/s1_e9.txt:21:Monica: No, I just talked to them.
+s1/s1_e9.txt:32:Monica: Oh, wow, so you're gonna be one of those "healthy, healthy, healthy guys"?
+s1/s1_e9.txt:40:Monica: Ok, I'll tell you what. How about I cook dinner at my place? I'll make it just like Mom's.
+s1/s1_e9.txt:42:Monica: You know, they're not actually supposed to have... (Ross looks at her sheepishly) I'll work on the lumps. Joey, you're going home, right?
+s1/s1_e9.txt:44:Monica: And I assume, Chandler, you are still boycotting all the pilgrim holidays.
+s1/s1_e9.txt:46:Monica: Phoebe, you're gonna be with your grandma?
+s1/s1_e9.txt:48:Monica: So you're free Thursday, then.
+s1/s1_e9.txt:50:Monica: Yeah. Rach, are you thinking you're gonna make it to Vail?
+s1/s1_e9.txt:82:Monica: Hey, Rach, did you make your money?
+s1/s1_e9.txt:84:Monica: Rach, here's your mail.
+s1/s1_e9.txt:86:Monica: (insistently) No, here's your mail.
+s1/s1_e9.txt:88:Monica: (gives her an envelope) Would you just open it?
+s1/s1_e9.txt:91:Monica: We all chipped in.
+s1/s1_e9.txt:93:Monica: (to Joey) You owe me 20 bucks.
+s1/s1_e9.txt:95:Monica: (hands Chandler a bag) Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.
+s1/s1_e9.txt:129:Monica: Mmm, looking good. Ok, cider's mulling, turkey's turking, yams are yamming. (notices Ross is depressed) What?
+s1/s1_e9.txt:131:Monica: All right, that's it. You know what? Just get out of my way and stop moping.
+s1/s1_e9.txt:144:Monica: That's not a question.
+s1/s1_e9.txt:146:Monica: All right, fine. Tonight's potatoes will be both mashed with lumps, and in the form of tots.
+s1/s1_e9.txt:149:Monica: Ah!
+s1/s1_e9.txt:153:Monica: What, Phoebe, did you whip the potatoes? Ross needs lumps!
+s1/s1_e9.txt:155:Monica: Why would we do that?
+s1/s1_e9.txt:157:Monica: Ok, three kinds of potatoes coming up.
+s1/s1_e9.txt:166:Monica: Got the keys? or Got the keys!
+s1/s1_e9.txt:179:Monica: Ok, right about now the turkey should be crispy on the outside, juicy on the inside. Why are we standing here?
+s1/s1_e9.txt:181:Monica: No I don't.
+s1/s1_e9.txt:183:Monica: No I didn't. I asked, "got the ke-eys?"
+s1/s1_e9.txt:186:Monica: (panicked) The oven is on.
+s1/s1_e9.txt:189:Monica: Well then get it, get it!
+s1/s1_e9.txt:191:Monica: (angry) Joey!
+s1/s1_e9.txt:210:Monica: Can you go any faster with that?
+s1/s1_e9.txt:212:Monica: Why do you guys have so many keys in there anyway?
+s1/s1_e9.txt:215:Monica: I swear you said you had the keys.
+s1/s1_e9.txt:219:Monica: Why would I have the keys?
+s1/s1_e9.txt:221:Monica: But I didn't.
+s1/s1_e9.txt:223:Monica: Why?
+s1/s1_e9.txt:225:Monica: Why?
+s1/s1_e9.txt:227:Monica: Why? Because everything is my responsibility? Isn't it enough that I'm making Thanksgiving dinner for everyone? You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes. Does anybody care what kind of potatoes I want? Nooooo, no, no! (starting to cry) Just as long as Phoebe gets her peas and onions, and Mario gets his tots, and it's my first Thanksgiving, and it's all burned, and, and I... I...
+s1/s1_e9.txt:230:Monica: Well, the turkey's burnt. (checking pots) Potatoes are ruined, potatoes are ruined, potatoes are ruined.
+s1/s1_e9.txt:233:Monica: No, it doesn't, does it? But you wanted lumps, Ross? (picks up the pan of badly burnt potatoes) Well, here you go, buddy, ya got one.
+s1/s1_e9.txt:236:Monica: Oh, really? So why was I busting my ass to make this delicious Thanksgiving dinner?
+s1/s1_e9.txt:239:Monica: Stop it, stop it, stop it!
+s1/s1_e9.txt:247:Monica: Ooh, Ugly Naked Dancing!
+s1/s1_e9.txt:254:Monica: (holding sandwich) Does anybody wanna split this with me?
+s1/s1_e9.txt:257:Monica: Make a wish?

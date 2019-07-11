@@ -1,0 +1,44 @@
+s1_e1.txt:Chandler: Yes, please don't spoil all this fun.
+s1_e10.txt:Monica: I'm sorry, okay. It's just that Chandler has somebody, and Phoebe has somebody- I thought I'd ask Fun Bobby.
+s1_e10.txt:Chandler: Fun Bobby? Your ex-boyfriend Fun Bobby?
+s1_e10.txt:Joey: You know more than one Fun Bobby?
+s1_e10.txt:Chandler: I happen to know a Fun Bob.
+s1_e10.txt:Rachel: No. Okay. I was at the airport, getting into a cab, when this woman- this blonde planet with a pocketbook- starts yelling at me. Something about how it was her cab first. And then the next thing I know she just starts- starts pulling me out by my hair! So I'm blowing my attack whistle thingy and three more cabs show up, and as I'm going to get into a cab she tackles me. And I hit my head on the kerb and cut my lip on my whistle...oh...everybody having fun at the party? (To Monica) Are people eating my dip?
+s1_e10.txt:Monica: Hey everybody! It's Fun Bobby!
+s1_e10.txt:Fun Bobby: Hey, sorry I'm late. But my, uh, grandfather, he- died about two hours ago. But I-I-I couldn't get a flight out 'til tomorrow, so here I am!
+s1_e10.txt:Joey: (Approaching) Hey Fun Bobby! Whoah! Who died?
+s1_e10.txt:(Monica gestures wildly behind Fun Bobby's back)
+s1_e10.txt:Fun Bobby: It's gonna be an open casket, y'know, so at least I'll- I get to see him again.
+s1_e2.txt:Ross: 'S'funny, um, uh, we agreed we'd spend the rest of our lives together. Things change, roll with the punches. I believe Julia's on the table..?
+s1_e2.txt:Ross: Oh, 's'funny, really? Um, I don't remember you making any sperm.
+s1_e3.txt:Ross: That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.
+s1_e3.txt:Monica: 'S'going pretty good, y'know? It's nice, and, we're having fun.
+s1_e3.txt:Rachel: Remember when we went to Central Park and rented boats?.. That was fun.
+s1_e4.txt:Ross: Funny, my birthday was seven months ago.
+s1_e4.txt:Chandler: Oh, I thought you were great in Silence of the Lambs. Oh come on, admit it! All things considered, you had fun tonight.
+s1_e4.txt:Ross: Fun? Where was the fun? Tell me specifically, which part was the fun part? Where's my puck?
+s1_e4.txt:Ross: ...Now that was fun.
+s1_e5.txt:Phoebe: Yeah, I know, he's sweet, but it's just not fun anymore, you know? I don't know if it's me, or his hunger strike, or, I don't know.
+s1_e5.txt:Joey: Come on, we were great together. And not just at the fun stuff, but like, talking too.
+s1_e5.txt:Monica: It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.
+s1_e6.txt:Chandler: Well, y'know, I had some trouble with it at first too, but the way I look at it is, I get all the good stuff: all the fun, all the talking, all the sex; and none of the responsibility. I mean, this is every guy's fantasy!
+s1_e6.txt:Monica: Yeah, yeah, it's interesting.. but y'know what? Just for fun, let's see what it looked like in the old spot. (She moves it.) Alright, just to compare. Let's see. Well, it looks good there too. Let's just leave it there for a while.
+s1_e7.txt:Ross: That, that is funny... (to Joey).... and Rachel keeps touching him.
+s1_e7.txt:Ross: Wha-What did he say that was so funny?
+s1_e7.txt:Ross: That's funny, because you know, you are a huge crapweasel!
+s1_e7.txt:Jill: Well, this has been fun.
+s1_e8.txt:Shelley: Okay. He's cute, he's funny, he's-
+s1_e8.txt:Phoebe: I dunno, 'cause you're smart, you're funny...
+s1_e8.txt:Chandler: Ross is smart and funny, d'you ever think that about him?
+s1_e8.txt:Mr. Geller: I wanna be buried at sea, it looks like fun.
+s1_e8.txt:Monica: Define fun.
+s1_e8.txt:Monica: ...And then we throw your body in the water... Gee, that does sound fun.
+s1_e8.txt:[Scene: Monica and Rachel's, Monica and Rachel are preparing to leave for the funeral.]
+s1_e8.txt:[Scene: The cemetary, after the funeral.]
+s1_e8.txt:Chandler: You're watching a football game at a funeral?
+s1_e8.txt:Monica: Well, sure, what with it being her funeral and all.
+s1_e8.txt:Ross: Looks like a fun gang. (They all look at each other and smile)
+s1_e9.txt:Chandler: That's so funny, 'cause I was thinking you look more like Joey Tribbiani, man slash woman.
+s1_e9.txt:Monica: (hands Chandler a bag) Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.
+s1_e9.txt:Chandler: Ok, we all laughed when you did it with the stuffing, but that's not funny anymore.
+s1_e9.txt:Ross: Shh! (singing) Here we come, walkin' down the street, get the funniest looks from, everyone we meet. Hey, hey! (to Carol) Hey, uh, did you just feel that?

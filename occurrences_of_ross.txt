@@ -1,0 +1,958 @@
+s1/s1_e1.txt:26:Ross: (mortified) Hi.
+s1/s1_e1.txt:29:Ross: I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck...
+s1/s1_e1.txt:34:Ross: Thanks.
+s1/s1_e1.txt:36:Ross: No, no don't! Stop cleansing my aura! No, just leave my aura alone, okay?
+s1/s1_e1.txt:38:Ross: I'll be fine, alright? Really, everyone. I hope she'll be very happy.
+s1/s1_e1.txt:40:Ross: No I don't, to hell with her, she left me!
+s1/s1_e1.txt:42:Ross: No!! Okay?! Why does everyone keep fixating on that? She didn't know, how should I know?
+s1/s1_e1.txt:44:Ross: I told mom and dad last night, they seemed to take it pretty well.
+s1/s1_e1.txt:46:Ross: Sorry.
+s1/s1_e1.txt:50:Ross: I don't want to be single, okay? I just... I just- I just wanna be married again!
+s1/s1_e1.txt:58:Ross: Hi.
+s1/s1_e1.txt:66:Ross: (in a deep voice) I'll have whatever Christine is having.
+s1/s1_e1.txt:75:Ross: You can see where he'd have trouble.
+s1/s1_e1.txt:93:Ross: Paul the Wine Guy, Paul?
+s1/s1_e1.txt:95:Ross: He finally asked you out?
+s1/s1_e1.txt:101:Ross: (choked voice) That'd be good...
+s1/s1_e1.txt:103:Ross: (normal voice) No, go on! It's Paul the Wine Guy!
+s1/s1_e1.txt:110:Ross: A wandering?
+s1/s1_e1.txt:118:Ross: So Rachel, what're you, uh... what're you up to tonight?
+s1/s1_e1.txt:120:Ross: Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your- (thinks) -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture.
+s1/s1_e1.txt:123:Ross: Okay, sure.
+s1/s1_e1.txt:130:Ross: (squatting and reading the instructions) I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.
+s1/s1_e1.txt:141:Ross: (clutching a beer can and sniffing) This was Carol's favorite beer. She always drank it out of the can, I should have known.
+s1/s1_e1.txt:145:Ross: You guys.
+s1/s1_e1.txt:161:Ross: I'm divorced!  I'm only 26 and I'm divorced!
+s1/s1_e1.txt:164:Ross: That only took me an hour.
+s1/s1_e1.txt:166:Ross: You know what the scariest part is? What if there's only one woman for everybody, y'know? I mean what if you get one woman- and that's it? Unfortunately in my case, there was only one woman- for her...
+s1/s1_e1.txt:168:Ross: I honestly don't know if I'm hungry or horny.
+s1/s1_e1.txt:188:Ross: (scornful) Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?
+s1/s1_e1.txt:192:Ross: Y'know, here's the thing. Even if I could get it together enough to- to ask a woman out,... who am I gonna ask? (He gazes out of the window.)
+s1/s1_e1.txt:255:Ross: I assume we're looking for an answer more sophisticated than 'to get you into bed'.
+s1/s1_e1.txt:264:Ross: You got a job?
+s1/s1_e1.txt:282:Ross: The word you're looking for is 'Anyway'...
+s1/s1_e1.txt:287:Ross: Come on, you made coffee!   You can do anything! (Chandler slowly tries to hide the now dead plant from that morning when he and Joey poured their coffee into it.)
+s1/s1_e1.txt:288:Ross: C'mon, cut. Cut, cut, cut,...
+s1/s1_e1.txt:298:Ross: No. No, I gotta go home sometime.
+s1/s1_e1.txt:300:Ross: Yeah.
+s1/s1_e1.txt:303:Ross and Rachel: Goodnight.
+s1/s1_e1.txt:305:Ross: Mmm. (They both reach for the last cookie) Oh, no-
+s1/s1_e1.txt:307:Ross: No no no, go-
+s1/s1_e1.txt:309:Ross: Split it?
+s1/s1_e1.txt:311:Ross: Okay. (They split it.) You know you probably didn't know this, but back in high school, I had a, um, major crush on you.
+s1/s1_e1.txt:313:Ross: You did! Oh.... I always figured you just thought I was Monica's geeky older brother.
+s1/s1_e1.txt:315:Ross: Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?
+s1/s1_e1.txt:317:Ross: Okay... okay, maybe I will...
+s1/s1_e1.txt:319:Ross: Goodnight.
+s1/s1_e1.txt:322:Ross: I just grabbed a spoon. (Ross exits and Monica has no idea what that means.)
+s1/s1_e1.txt:334:Ross: There's an image.
+s1/s1_e10.txt:4:Ross: Guys? There's a somebody I'd like you to meet.
+s1/s1_e10.txt:8:Ross: 'That' would be Marcel. You wanna say hi?
+s1/s1_e10.txt:11:Ross: My friend Bethel rescued him from some lab.
+s1/s1_e10.txt:15:Ross: Yeah. I mean, it's been kinda quiet since Carol left, so...
+s1/s1_e10.txt:17:Ross: Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- (Realises) ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.
+s1/s1_e10.txt:26:Ross: How could you not get it? You were Santa last year.
+s1/s1_e10.txt:71:Ross: Come here, Marcel. Sit here. (Marcel wanders off)
+s1/s1_e10.txt:73:Ross: Just a smidge.
+s1/s1_e10.txt:83:Ross: C'mon, this was a pact! This was your pact!
+s1/s1_e10.txt:95:Ross: Okay, look, he's not gonna hurt them, right?
+s1/s1_e10.txt:97:Ross: I didn't wanna leave him alone. Alright? We- we had our first fight this morning. I think it has to do with my working late. I said some things that I didn't mean, and he- he threw some faeces...
+s1/s1_e10.txt:99:Ross: Oh, that'd be great! Okay, but if you do, make sure it seems like you're there to see him, okay, and you're not like doing it as a favour to me.
+s1/s1_e10.txt:120:Ross: So tell me something. What does the phrase 'no date pact' mean to you?
+s1/s1_e10.txt:129:Ross: Okay, so on our no-date evening, three of you now have dates.
+s1/s1_e10.txt:131:Ross: Four.
+s1/s1_e10.txt:133:Ross: Five. (Buries his head in his hands)
+s1/s1_e10.txt:136:Ross: Okay, so I'm gonna be the only one standing there alone when the ball drops?
+s1/s1_e10.txt:138:Ross: Hey, y'know, this is so not what I needed right now.
+s1/s1_e10.txt:140:Ross: Oh, it's-it's Marcel. He keeps shutting me out, y'know? He's walking around all the time dragging his hands...
+s1/s1_e10.txt:142:Ross: Really.
+s1/s1_e10.txt:144:Ross: What, uh... what juggling thing?
+s1/s1_e10.txt:146:Ross: No.
+s1/s1_e10.txt:197:Ross: Par-tay!
+s1/s1_e10.txt:199:Ross: 'That thing'? This is how you greet guests at a party? Let me ask you something, if I showed up here with my new girlfriend, she wouldn't be welcome in your home?
+s1/s1_e10.txt:201:Ross: Okay. He was more embarrassed about that than anyone. Okay? And for him to have the courage to walk back in here like nothing happened...
+s1/s1_e10.txt:203:Ross: Thank you. (She walks off) C'mon, Marcel, whaddya say you and I do a little mingling? (Marcel runs off) Alright, I'll, uh... catch up with you later.
+s1/s1_e10.txt:215:Ross: (Watching Marcel play with Phoebe. To Chandler) Look at him. I'm not saying he has to spend the whole evening with me, but at least check in.
+s1/s1_e10.txt:272:Ross: Perfect. Perfect. So now everybody's getting kissed but me.
+s1/s1_e10.txt:277:Ross: (Watching Marcel and talking to Rachel) I wanted this to work so much. I mean I'm still in there, changing his diapers, pickin' his fleas... but he's just phoning it in. Just so hard to accept the fact that something you love so much doesn't love you back.
+s1/s1_e11.txt:50:Ross: C'mon, Chandler, I love your mom. I think she's a blast.
+s1/s1_e11.txt:52:Ross: Oh, please...
+s1/s1_e11.txt:56:Ross: When did Rigatoni get back from Rome?
+s1/s1_e11.txt:58:Ross: Ah, so then his plane didn't explode in a big ball of fire?... Just a dream I had- but, phew.
+s1/s1_e11.txt:89:Ross: (Entering) What is this dive? Only you could've picked this place.
+s1/s1_e11.txt:96:Ross: Uh, I'm not really a shot drinking kinda guy.
+s1/s1_e11.txt:99:Ross: ...But a man can change. (Downs a shot)
+s1/s1_e11.txt:101:Ross: Anyone want me to appraise anything?
+s1/s1_e11.txt:110:Ross: Yeah, I'm fine, I'm fine. (A woman emerges from the toilet behind him and he tries to pretend he was in the other one)
+s1/s1_e11.txt:112:Ross: Nothing. Nothing nothing nothing.
+s1/s1_e11.txt:114:Ross: No. It's the one he's licking.
+s1/s1_e11.txt:116:Ross: You're good.
+s1/s1_e11.txt:118:Ross: The girl on the cover with her nipples showing?
+s1/s1_e11.txt:120:Ross: When?
+s1/s1_e11.txt:122:Ross: The guy on the cover with his nipples showing?
+s1/s1_e11.txt:124:Ross: Please.
+s1/s1_e11.txt:126:Ross: Right.
+s1/s1_e11.txt:129:Ross: Uh-oh...
+s1/s1_e11.txt:135:Ross: Hey, is Chandler here?
+s1/s1_e11.txt:138:Ross: Okay, uh, about last night, um, Chandler.. you didn't tell... (Joey shakes his head) Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?
+s1/s1_e11.txt:140:Ross: Okay.
+s1/s1_e11.txt:142:Ross: What code?
+s1/s1_e11.txt:146:Ross: Uh.. uh.. Well, Joey and I had discussed getting in an early morning racquetball game. But, um, apparently, somebody overslept.
+s1/s1_e11.txt:148:Ross: No, no I don't, because it's being restrung, somebody was supposed to bring me one.
+s1/s1_e11.txt:151:Ross: Okay, I'm scum, I'm scum.
+s1/s1_e11.txt:153:Ross: I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's...
+s1/s1_e11.txt:155:Ross: Well... not in the same way...
+s1/s1_e11.txt:157:Ross: Okay, I think we're getting into a weird area here...
+s1/s1_e11.txt:160:Ross: Hey.
+s1/s1_e11.txt:162:Ross: Well, not playing raquetball!
+s1/s1_e11.txt:164:Ross: He didn't get the goggles!
+s1/s1_e11.txt:170:Ross: Do they wait for me to do this?
+s1/s1_e11.txt:173:Ross: Why would I tell him?
+s1/s1_e11.txt:175:Ross: Oh...
+s1/s1_e11.txt:190:Ross: You're my friend. I-I had to tell you.
+s1/s1_e11.txt:192:Ross: Yeah, um, I don't know if you noticed, but he had a lot to drink, and you know how he gets when he's drun..uh... (He has caught sight of Joey scowling at him) I can't do this, I did it, it was me, I'm sorry, I kissed your mom.
+s1/s1_e11.txt:194:Ross: I was really upset about Rachel and Paolo, and I think I had too much tequila, and Nora- um, Mrs. Mom- your Bing- was just being nice, y'know, and- But nothing happened, nothing- Ask Joey, Joey, uh, came in-
+s1/s1_e11.txt:199:Ross: Thanks, man, big help.
+s1/s1_e11.txt:201:Ross: I wasn't- I mean, I-
+s1/s1_e11.txt:203:Ross: I know-
+s1/s1_e11.txt:205:Ross: Chandler-
+s1/s1_e11.txt:209:Ross: Chandler-
+s1/s1_e11.txt:212:Ross: Joey-
+s1/s1_e11.txt:231:Ross: I cannot believe we're having this conversation.
+s1/s1_e11.txt:243:Ross: Oh, uh, Phoebe just started a...
+s1/s1_e11.txt:246:Ross: Chandler, can I just say something? I-I know you're still mad at me, I just wanna say that there were two people there that night. Okay? Two sets of lips.
+s1/s1_e11.txt:248:Ross: Okay, well, if she always behaves like this, why don't you say something?
+s1/s1_e11.txt:251:Ross: (To the rest of Central Perk) We're rehearsing a Greek play.
+s1/s1_e11.txt:253:Ross: No! Okay, you mean, you're not gonna talk to her, you're not gonna tell her how you feel?
+s1/s1_e11.txt:255:Ross: Okay, 'you' can't, or (Points to Chandler) you can't? (Chandler grabs his finger) Okay, that's my finger. (Chandler twists it and Ross goes down on one knee) That's, that's my knee. (To Central Perk) Still doing the play. Aaah!
+s1/s1_e11.txt:296:Ross: Ah, the forbidden love of a man and his door.
+s1/s1_e11.txt:298:Ross: You're kidding.
+s1/s1_e11.txt:300:Ross: Wow!
+s1/s1_e11.txt:302:Ross: 'Kay, wait a minute, are you sure she didn't say "When are you gonna grow up and realise I am your mom?"
+s1/s1_e11.txt:304:Ross: So, what's going on now?
+s1/s1_e11.txt:306:Ross: Whaddya see?
+s1/s1_e11.txt:314:Ross: (Very politely) Mrs. Bing.
+s1/s1_e11.txt:319:Ross: You mean that?
+s1/s1_e11.txt:321:Ross: Yeah? How'd it go?
+s1/s1_e11.txt:323:Ross: Well, howdya feel?
+s1/s1_e11.txt:325:Ross: Well, see? So, maybe it wasn't such a bad idea, y'know, me kissing your mom, uh? Huh? (Wags his finger at Chandler, then puts it down) But.. we don't have to go down that road.
+s1/s1_e11.txt:332:Ross: Wait, did you get to the part about his 'huge throbbing pens'? Tell ya, you don't wanna be around when he starts writing with those!
+s1/s1_e12.txt:11:Ross: Yup! You could plunk me down in the middle of any woman's uterus, no compass, and I can find my way out of there like that! (snaps fingers)
+s1/s1_e12.txt:18:Ross: (waves) Hello!
+s1/s1_e12.txt:32:Ross: Wasn't this supposed to be just a fling, huh? Shouldn't it be...(makes flinging motions with hands) flung by now?
+s1/s1_e12.txt:36:Ross: ...nauseous, I'm physically nauseous. What am I supposed to do, huh? Call immigration? (pauses, looks suddenly inspired) I could call immigration!
+s1/s1_e12.txt:46:Ross: Hey, hello! mmwa! (kisses Carol) I brought all the books, and Monica sends her love, along with this lasagna.
+s1/s1_e12.txt:48:Ross: (pauses) I'm pretty sure that it is...
+s1/s1_e12.txt:50:Ross: (making flinging gestures with hands) Oh, tell me, tell me, is everything, uhh....?
+s1/s1_e12.txt:52:Ross: Oh, that's great, that is great! (Hugs and kisses Carol. Then picks up a picture frame)
+s1/s1_e12.txt:53:Ross: Hey, when did you and Susan meet Huey Lewis?
+s1/s1_e12.txt:55:Ross: (surprised, chuckling nervously) Of course it's your friend Tanya. (looks up frightenedly)
+s1/s1_e12.txt:57:Ross: (chuckles nervously) The sex? (chuckles) Um, I'm having enough trouble with the image of you and Susan together, when you throw in Tanya (miming washing hair, that's the best I could think of), yaw...
+s1/s1_e12.txt:59:Ross: Oh, you know the sex of the baby? Oh, oh-oh-oh!
+s1/s1_e12.txt:61:Ross: No, no, no, no, no, I don't want to know, absolutely not. I think, you know, I think you should know until you look down there, and say, oop, there it is! (pauses) Or isn't...
+s1/s1_e12.txt:64:Ross: Susan...
+s1/s1_e12.txt:66:Ross: Yes, we did, everything's A-OK!
+s1/s1_e12.txt:69:Ross: (flailing arms in protest) Oh, hey hey hey, ho ho ho, hello, guy who doesn't want to know, standing right here!
+s1/s1_e12.txt:72:Ross: Ok, what, what...ok, what did we think it was going to be?
+s1/s1_e12.txt:74:Ross: (interrupts) No, no, no I don't want to know, don't want to know. Ok, you know, I should probably, I should probably just go.
+s1/s1_e12.txt:76:Ross: No problem, ok, mmmwa (kisses Carol) oh, mmmwa (kisses Carol's stomach, then punches Susan's shoulder) Susan... (Ross leaves.)
+s1/s1_e12.txt:79:Ross: (on intercom) Uh, never mind, I don't want to know. (Carol and Susan laugh)
+s1/s1_e12.txt:117:Ross: Wha, heh, how could you know, I don't even know!
+s1/s1_e12.txt:120:Ross: Wait—oh—hey—huh, oh great now he knows, and I don't know!
+s1/s1_e12.txt:125:Ross: Hi Pheebs!
+s1/s1_e12.txt:136:Ross: I'm familiar with his work, yes...
+s1/s1_e12.txt:147:Ross: My God.
+s1/s1_e12.txt:159:Ross: The actress!
+s1/s1_e12.txt:161:Ross: Thanks Rach.
+s1/s1_e12.txt:164:Ross: You have to tell her! You have to tell her! It's your moral obligation, as a friend, as a woman, I think it's a feminist issue! Guys? Guys? (waiting for guys to chime in)
+s1/s1_e12.txt:168:Ross:(sympathetic yet...) Yeah, well...
+s1/s1_e12.txt:199:Ross: I think It's the most beautiful table I've ever seen.
+s1/s1_e12.txt:235:Ross: (wiping his brow) Ah...ooh! Well, looks like, uh, we kicked your butts.
+s1/s1_e12.txt:237:Ross: Come on, two on one.
+s1/s1_e12.txt:239:Ross: What, now?
+s1/s1_e12.txt:245:Ross: (entering) How's it going?
+s1/s1_e12.txt:253:Ross: Paolo, I-I just want to tell you and I think I speak for everyone when I say... (shuts door in his face and walks away)
+s1/s1_e12.txt:255:Ross: Oh you guys, I-I really think just one of us should go out there so she's not overwhelmed...
+s1/s1_e12.txt:257:Ross: (pulls Monica back) ...and I really think it should be me.
+s1/s1_e12.txt:259:Ross: Hey.
+s1/s1_e12.txt:261:Ross: You all right?
+s1/s1_e12.txt:263:Ross: Come here. (he hugs Rachel) Listen, you deserve so much better than him...you know, I mean, you, you, you should be with a guy who knows what he has when he has you.
+s1/s1_e12.txt:265:Ross: What?
+s1/s1_e12.txt:267:Ross: Huh.
+s1/s1_e12.txt:269:Ross: Ohhhh (Hugs her and sighs)
+s1/s1_e12.txt:276:Ross: See, Rach, uh, see, I don't think that swearing off guys altogether is the answer. I really don't. I think that what you need is to develop a more sophisticated screening process.
+s1/s1_e12.txt:278:Ross: Uh, no, no, see, because not...not all guys are going to be a Paolo.
+s1/s1_e12.txt:280:Ross: (astonished) What?
+s1/s1_e12.txt:282:Ross: I-I'm, I'm having a boy?
+s1/s1_e12.txt:284:Ross: Wha-I'm having, I'm having a boy! (babbling) Huh, am I having a boy?
+s1/s1_e12.txt:286:Ross: I'm having a boy! Oh, I'm having a boy!
+s1/s1_e12.txt:291:Ross: I'm having a boy! I-I'm having a boy!
+s1/s1_e12.txt:295:Ross: I'm having a son. Um...
+s1/s1_e13.txt:33:Ross: You what? Wh what were you doing seeing her boobies?
+s1/s1_e13.txt:81:Ross: Alright, alright. We're all adults here, there's only one way to resolve this. Since you saw her boobies, I think, uh, you're gonna have to show her your peepee.
+s1/s1_e13.txt:92:Ross: Yeah.
+s1/s1_e13.txt:94:Ross: What, so he was a little analytical. That's what he does, y'know? C'mon, he's not that bad.
+s1/s1_e13.txt:96:Ross: Y'see, that's where you're wrong. Why would I marry her if I thought on any level thatthat she was a lesbian?
+s1/s1_e13.txt:98:Ross: Why? Why would I why? Why? Why? Why?
+s1/s1_e13.txt:102:Ross: That that's ridiculous! I don't feel guilty for her failures!
+s1/s1_e13.txt:105:Ross: Nonono, thatthat's not what I was saying...
+s1/s1_e13.txt:107:Ross: Hey, I married a lesbian to make you look good!
+s1/s1_e13.txt:209:Ross: I dunno, there's just something about...
+s1/s1_e13.txt:213:Ross: We're sorry, Pheebs, we're sorry.
+s1/s1_e13.txt:254:Ross: So Joey, you okay?
+s1/s1_e14.txt:6:Ross: She barely knows me. We just live in the same building.
+s1/s1_e14.txt:8:Ross: She lent me an egg once.
+s1/s1_e14.txt:10:Ross: Aw, right.
+s1/s1_e14.txt:12:Ross: Hey. (stutters something incoherent)
+s1/s1_e14.txt:15:Ross: An egg?
+s1/s1_e14.txt:18:Ross: I think it's insane.
+s1/s1_e14.txt:36:Ross: Hi. She said yes.
+s1/s1_e14.txt:129:Ross: I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half.
+s1/s1_e14.txt:132:Ross: The blond woman is my ex-wife, and the woman touching her is her... close, personal friend.
+s1/s1_e14.txt:134:Ross: If you wanna put a label on it.
+s1/s1_e14.txt:136:Ross: Nope, nope, that's it.
+s1/s1_e14.txt:138:Ross: Oh, and she's pregnant with my baby. I always forget that part. (to Carol and Susan) Helloo!
+s1/s1_e14.txt:166:Ross: So, um, what do you do for a living?
+s1/s1_e14.txt:170:Ross: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.
+s1/s1_e14.txt:172:Ross: Are you sure? Great. Carol? Wanna come over and join us?
+s1/s1_e14.txt:174:Ross: Come on. These people'll scooch down. You guys'll scooch, won't you? Let's try scooching! Come on. Come on. Uh, Kristen Riggs, this is Carol Willick. Carol, Kristin. Uh, Carol teaches sixth grade. And, Kristin, Kristin...(struggling)...does something that, funnily enough, wasn't even her major!
+s1/s1_e14.txt:201:Ross: You did so. I swear, I swear—(noticing Kristin's absence) How long has she been in the bathroom?
+s1/s1_e14.txt:203:Ross: Well maybe it's cold in there. Or maybe I screwed up the first date I had in 9 years.
+s1/s1_e14.txt:205:Ross: Oh, god. (He puts his head down on the grill) You know, this is still pretty hot. (He picks his head up, and a mushroom sticks to his head. Carol picks it off and eats it.)
+s1/s1_e14.txt:207:Ross: No, it's just...you know the whole "getting on with your life" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.
+s1/s1_e14.txt:210:Ross: No but, no but.
+s1/s1_e14.txt:212:Ross: That's easy for you to say, you found one already.
+s1/s1_e15.txt:7:Ross: Grazie.
+s1/s1_e15.txt:25:Ross: What's going on?
+s1/s1_e15.txt:62:Ross: Ah, the lesser-known "I don't have a dream" speech.
+s1/s1_e15.txt:75:Ross: Hey guys, does anybody know a good date place in the neighborhood?
+s1/s1_e15.txt:77:Ross: OK, ahem, hey, does anybody know a good place if you're not dating a puma?
+s1/s1_e15.txt:81:Ross: Her name is Celia. She's not a bug lady. She's curator of insects at the museum.
+s1/s1_e15.txt:83:Ross: Oh, I just thought we could go out to dinner, and then maybe bring her back to my place and I'd introduce her to my monkey.
+s1/s1_e15.txt:86:Ross: Well, I don't know.... (gestures) huh-huh.... but I'm hoping (gestures) huh-huh.
+s1/s1_e15.txt:89:Ross: Celia, don't worry!  Don't scream!  He's not going to hurt you! Soothing tones, Celia. Soothing tones! Marcel...
+s1/s1_e15.txt:91:Ross: Alright... (lifts Marcel away)
+s1/s1_e15.txt:122:Ross: OK.... um, a weird thing happened to me on the train this morning...
+s1/s1_e15.txt:124:Ross: (embarrassed) Wha... what, here?
+s1/s1_e15.txt:126:Ross: Ah....
+s1/s1_e15.txt:128:Ross: (panicked) Er.... um.....
+s1/s1_e15.txt:130:Ross: Um... uh.... vulva.
+s1/s1_e15.txt:133:Ross: Alright, I panicked, alright? She took me by surprise. You know, but it wasn't a total loss. I mean, we ended up cuddling.
+s1/s1_e15.txt:135:Ross: Shut up! It was nice. I just... I don't think I'm the dirty-talking kind of guy, you know?
+s1/s1_e15.txt:137:Ross: (deadpan) Please be kidding.
+s1/s1_e15.txt:139:Ross: OK. (closes eyes) I'm in my apartment...
+s1/s1_e15.txt:141:Ross: That's it. I'm in my apartment, you're not there, we're not having this conversation. (gets up, walks across room)
+s1/s1_e15.txt:143:Ross: Joey, please.
+s1/s1_e15.txt:145:Ross: (impressed) Wow.
+s1/s1_e15.txt:147:Ross: I... ahem... I really don't think so.
+s1/s1_e15.txt:149:Ross: Yeah.
+s1/s1_e15.txt:151:Ross: Sure.
+s1/s1_e15.txt:153:Ross: OK, turn around. (Joey looks taken aback) I just don't want you staring at me when I'm doing this.
+s1/s1_e15.txt:155:Ross: Ahem... I want.... OK, I want to... feel your... hot, soft skin with my lips.
+s1/s1_e15.txt:157:Ross: I, er...
+s1/s1_e15.txt:159:Ross: I want to take my tongue... and...
+s1/s1_e15.txt:161:Ross: ....and....
+s1/s1_e15.txt:163:Ross: ...run it all over your body until you're... trembling with... with...
+s1/s1_e15.txt:166:Ross: (rushing to explain) Funny story!
+s1/s1_e15.txt:248:Ross: Yeah!
+s1/s1_e15.txt:250:Ross: Look, you'll get there. You're an amazing chef.
+s1/s1_e15.txt:254:Ross: Oh, I was unbelievable.
+s1/s1_e15.txt:256:Ross: I was the James Michener of dirty talk. It was the most elaborate filth you have ever heard. I mean, there were characters, plot lines, themes, a motif... at one point there were villagers.
+s1/s1_e15.txt:258:Ross: Well, ahem... you know, by the time we'd finished with all the dirty talk, it was kinda late... and we were both kind of exhausted, so uh...
+s1/s1_e15.txt:260:Ross: Yeah, which was nice.
+s1/s1_e16.txt:21:Ross: I don’t know whether he’s testing me, or just acting out, but my monkey is out of control. But, he keeps erasing the messages on my machine, "supposedly" by accident.
+s1/s1_e16.txt:23:Ross: And then, like three days in a row he got to the newspaper before I did, and peed all over the crossword.
+s1/s1_e16.txt:53:Ross: Oh, Pheebs, I’m sorry, I’ve got to go. I’ve got Lamaze class.
+s1/s1_e16.txt:56:Ross: No, Susan’s gonna be there too. We’ve got dads, we’ve got lesbians, the whole parenting team.
+s1/s1_e16.txt:58:Ross: No, no. (Distractedly putting on a jacket to go out) I mean, it mighta been at first, but by now I, I think I’m pretty comfortable with the whole situation.
+s1/s1_e16.txt:60:Ross: I know.
+s1/s1_e16.txt:65:Ross: Hi, um, I’m err, (has to clear his throat) I’m Ross Geller, and err ah... (pats Carol’s bulge) ..that’s, that’s my boy in there, and uh, (points) this is Carol Willick, and this... is Susan Bunch. Susan is um Carol’s, just, com... (embarrassment finally overwhelms the poor fellow, who becomes incoherent until) ..who’s next?
+s1/s1_e16.txt:67:Ross: Susan is Carol’s, Carol’s, Carol’s, friend...
+s1/s1_e16.txt:69:Ross: Like buddies.
+s1/s1_e16.txt:71:Ross: You know how close women can get.
+s1/s1_e16.txt:74:Ross: Although I was married to her.
+s1/s1_e16.txt:76:Ross: Err, right.
+s1/s1_e16.txt:78:Ross: A little.
+s1/s1_e16.txt:80:Ross: Absolutely. (Turns back to the woman next to him.) So, twins... hah! That’s like two births. (He struggles again.) Ouch.
+s1/s1_e16.txt:99:Ross: It doesn’t matter. You don’t dip your pen in the company ink.
+s1/s1_e16.txt:102:Ross: Marcel, Marcel, give Rossie the remote. Marcel. Marcel, you give Rossie the remote right now... Marce... you give Rossie the remote...
+s1/s1_e16.txt:105:Ross: Relax, I’ll fix it.
+s1/s1_e16.txt:107:Ross: (looking at the remote) How did he do this?
+s1/s1_e16.txt:126:Ross: You okay?
+s1/s1_e16.txt:128:Ross: You wanna watch Laverne y Shirley?
+s1/s1_e16.txt:131:Ross: Sorry.
+s1/s1_e16.txt:132:Ross: Hi. Sorry I’m late. Where’s, where’s Carol?
+s1/s1_e16.txt:134:Ross: No... No... No. I think I should stay, I think we should both know what’s going on.
+s1/s1_e16.txt:138:Ross and Susan: What? What? What?
+s1/s1_e16.txt:140:Ross: Okay, I’m gonna play my sperm card one more time.
+s1/s1_e16.txt:142:Ross: I see. So what do you propose to do?
+s1/s1_e16.txt:144:Ross: Flip me for it? No, no, no... heads, heads, heads!
+s1/s1_e16.txt:263:Ross: Susan, go deep.
+s1/s1_e16.txt:268:Ross: Carol, honey, shhh, shhh, everything’s gonna be alright.
+s1/s1_e16.txt:276:Ross: I’m gonna be a father.
+s1/s1_e16.txt:278:Ross: I always knew I was havin’ a baby, I just never realised the baby was having me.
+s1/s1_e16.txt:280:Ross: Aw, how can you say that? I can’t even get Marcel to stop eating the bath mat. How am I gonna raise a kid?
+s1/s1_e16.txt:329:Ross: No, come on, he doesn’t know this stuff. If he knew how you felt.
+s1/s1_e17.txt:39:Ross: I had a dream last night where I was playing football with my kid.
+s1/s1_e17.txt:41:Ross: No, no, with him. (He mimes holding the baby like a football.) I'm on this field, and they, they hike me the baby... and I, I know I've gotta do something 'cause the Tampa Bay defence is comin' right at me.
+s1/s1_e17.txt:43:Ross: Right, but, it is just me and the baby, so I'm thinkin' they can take us. And so I uh, hah-hah, I just heave it down field.
+s1/s1_e17.txt:46:Ross: Anyway, suddenly I'm down field, and I realise that I'm the one who's supposed to catch him, right? Only I know there is no way I'm gonna get there in time, so I am running, and running, and that, that is when I woke up. See I, I am so not ready to be a father.
+s1/s1_e17.txt:53:Ross: Wo-wo-whoa. What about Phoebe's birthday?
+s1/s1_e17.txt:55:Ross: Tonight.
+s1/s1_e17.txt:58:Ross: You take your time.
+s1/s1_e17.txt:91:Ross: What the hell are you doing? You scared the crap outta me.
+s1/s1_e17.txt:93:Ross: Yeah, yeah. I got a lemon schmush.
+s1/s1_e17.txt:102:Ross: (Still annoyed) Yeah, we'll just use our special cake tools.
+s1/s1_e17.txt:104:Ross: Oh, we just...
+s1/s1_e17.txt:112:Ross: Dad, before I was born, did you freak out at all?
+s1/s1_e17.txt:114:Ross: Dad, dad, dad, I'm talkin' about the whole uh, baby thing. Did you uh, ever get this sort of... panicky, "Oh my god I'm gonna be a father" kind of a thing?
+s1/s1_e17.txt:116:Ross: No, no, Dad, I was just wondering.
+s1/s1_e17.txt:118:Ross: Thanks, Dad, really, I ju... you know, I just, I just needed to know, um... when did you start to feel like a father?
+s1/s1_e17.txt:122:Ross: No, we can go to Williamsburg.
+s1/s1_e17.txt:194:Ross: Good. Maybe he can switch it back.
+s1/s1_e17.txt:196:Ross: Maybe not.
+s1/s1_e17.txt:213:Ross and Chandler: Hey!
+s1/s1_e17.txt:218:Ross: Well did you try calling her?
+s1/s1_e17.txt:278:Ross: Uh-huh.
+s1/s1_e17.txt:280:Ross: Do you have a point?
+s1/s1_e17.txt:284:Ross: It's just a fur ball.
+s1/s1_e17.txt:286:Ross: Yours, I just got 43 points for 'KIDNEY'.
+s1/s1_e17.txt:288:Ross: I had a 'K'. Where's where's my 'K'?
+s1/s1_e17.txt:291:Ross: You've got to help me my monkey swallowed a 'K'!
+s1/s1_e17.txt:294:Ross: No, no you don't understand the animal hospital is way across town he's choking I don't know what else to do.
+s1/s1_e17.txt:301:Ross: Lady, he is people. He has a name, okay? He watches Jeopardy! He he touches himself when nobody's watching. Please, please have a heart!
+s1/s1_e17.txt:344:Ross: He looks so tiny.
+s1/s1_e17.txt:348:Ross: Yeah. The doctor got the 'K' out. He also found an 'M' and an 'O'.
+s1/s1_e17.txt:351:Ross: Well, the doctor says he's gonna be fine, he's just sleeping now.
+s1/s1_e17.txt:353:Ross: No, why?
+s1/s1_e17.txt:357:Ross: (Quietly) hey, fella! How you doing?
+s1/s1_e17.txt:361:Ross: Aqui est�. (Here it is!)
+s1/s1_e17.txt:373:Ross: �Lo que sucedio es que no le gusta la tele! (The thing is, he doesn`t like the program!)
+s1/s1_e18.txt:4:Ross: Uh, Rach, we're running low on resumes over here.
+s1/s1_e18.txt:8:Ross: Rach, did you proofread these?
+s1/s1_e18.txt:10:Ross: Uh, nothing, I'm sure they'll be impressed with your excellent compuper skills.
+s1/s1_e18.txt:29:Ross: I don't know.
+s1/s1_e18.txt:31:Ross: No, it's not just that. It's just—I want someone who... who does something for me, y'know? Who gets my heart pounding, who... who makes me, uh... (begins to stare lovingly at Rachel)
+s1/s1_e18.txt:33:Ross: What?
+s1/s1_e18.txt:35:Ross: Who?
+s1/s1_e18.txt:37:Ross: Look, I am totally, totally over her, OK, I just... (Rachel comes over, Ross lays head on table): Hiiii!
+s1/s1_e18.txt:39:Ross: We're fine, we're fine.
+s1/s1_e18.txt:45:Ross: Uhhhh... Joey cried last night.
+s1/s1_e18.txt:49:Ross: Oh, guys, you should've seen him. 'Read 'em and weep.'
+s1/s1_e18.txt:53:Ross: No, women are welcome to play.
+s1/s1_e18.txt:61:Ross: Excuse me, do any of you know how to play?
+s1/s1_e18.txt:73:Ross: No. No, uh, Phoebs? You can't—you can't do...
+s1/s1_e18.txt:75:Ross: No, no. Uh... no, see, uh, you-you can't do that.
+s1/s1_e18.txt:77:Ross: Oh, you're... (gives up)
+s1/s1_e18.txt:84:Ross: Alright, now, you sure? Phoebe just threw away two jacks because they didn't look happy...
+s1/s1_e18.txt:99:Ross: The game, Rachel, the game. You owe us money for the game.
+s1/s1_e18.txt:105:Ross: Well that's fine with me. Could use the money.
+s1/s1_e18.txt:107:Ross: (pause)...Yeah.
+s1/s1_e18.txt:109:Ross: Look, Rachel, this is poker. I play to win, alright? In order for me to win, other people have to lose. So if you're gonna play poker with me, don't expect me to be a 'nice guy,' OK? Cause once those cards are dealt... (claps hands three times)
+s1/s1_e18.txt:111:Ross: I'm not a nice guy.
+s1/s1_e18.txt:113:Ross: Alright boys, let's eat.
+s1/s1_e18.txt:115:Ross: You still on that?
+s1/s1_e18.txt:117:Ross: You are way off, pal.
+s1/s1_e18.txt:119:Ross: Um.... no. See, I might've had feelings for her at one time—not any more. I just—I...
+s1/s1_e18.txt:121:Ross: Marcel! Where are you going with that disc?
+s1/s1_e18.txt:123:Ross: You are not putting that on again! Marcel, OK—if you press that button, you are in very, very big trouble.
+s1/s1_e18.txt:158:Ross: Alright.
+s1/s1_e18.txt:160:Ross: I'm gonna pay for that tonight.
+s1/s1_e18.txt:163:Ross: Hey.
+s1/s1_e18.txt:175:Ross: Uh, Rach, do you want me to shuffle those?
+s1/s1_e18.txt:177:Ross: Alright.
+s1/s1_e18.txt:181:Ross: So, Phoebs owes $7.50, Monica, you owe $10, and Rachel, you owe fifteen big ones.
+s1/s1_e18.txt:187:Ross: Well, that just leaves the big Green poker machine, who owes fifteen...
+s1/s1_e18.txt:192:Ross: So, you gals wanna hand over your money now? That way, we don't have to go through the formality of actually playing.
+s1/s1_e18.txt:198:Ross: Uh... to the bathroom.
+s1/s1_e18.txt:200:Ross: I want to go to the bathroom. (exits)
+s1/s1_e18.txt:207:Ross: Alright. (to Rachel): Your money's mine, Green.
+s1/s1_e18.txt:217:Ross: Well, you better hop outta the shower, cause... I gotta flush. (lays down cards)
+s1/s1_e18.txt:231:Ross: Oh, I am very in.
+s1/s1_e18.txt:236:Ross: No, not this time. (he folds) So... what'd you have?
+s1/s1_e18.txt:238:Ross: Come on, show them to me. (reaches for her cards, Rachel covers them up)
+s1/s1_e18.txt:240:Ross: Show them to me!
+s1/s1_e18.txt:242:Ross: Let me see! Show them!
+s1/s1_e18.txt:247:Ross: First of all, I'm not losing...
+s1/s1_e18.txt:249:Ross: Let's not talk about losing. Just deal the...
+s1/s1_e18.txt:251:Ross: (mimicking Rachel) Mee mee, mee-mee mee.
+s1/s1_e18.txt:263:Ross: I'm in for fifty cents. (throws it in)
+s1/s1_e18.txt:267:Ross: I thought, uh... it was a fifty cent limit.
+s1/s1_e18.txt:272:Ross: No, I fold. (lays cards down, and gets up)
+s1/s1_e18.txt:275:Ross: I'm in. (throws in chips)
+s1/s1_e18.txt:277:Ross: One. (Rachel gives him the card.)
+s1/s1_e18.txt:279:Ross: I bet two dollars. (throws it in)
+s1/s1_e18.txt:281:Ross: I see your twenty, raise you twenty-five. (throws it in)
+s1/s1_e18.txt:292:Ross: (to Joey): Joey, I'm a little shy.
+s1/s1_e18.txt:296:Ross: Fifteen.
+s1/s1_e18.txt:299:Ross: Thank you.
+s1/s1_e18.txt:301:Ross: (to Rachel): OK, I am calling your seventeen. What do you got?
+s1/s1_e18.txt:305:Ross: You got me.
+s1/s1_e18.txt:309:Ross: Oh, well, when you don't have the cards, you don't have the cards, you know. (looks at Rachel) But, uh... look how happy she is. (smiles)
+s1/s1_e18.txt:325:Ross: Uh.... bean! Bean!
+s1/s1_e19.txt:20:Ross: Marcel. Bring me the rice, c'mon. Bring me the rice, c'mon. Good boy. Good boy. C'mere, gimme the rice. (Marcel brings the rice) Thank you, good boy. Well, I see he's finally mastered the difference between 'bring me the' and 'pee in the'. (Rachel ignores him) 'Bring me the' and- Rach?
+s1/s1_e19.txt:22:Ross: Hi.
+s1/s1_e19.txt:24:Ross: Really.
+s1/s1_e19.txt:26:Ross: Whoah, uh, what happened to, uh, 'Forget relationships! I'm done with men!' The whole, uh, penis embargo?
+s1/s1_e19.txt:28:Ross: Wait-wait. I, I got it. I was there.
+s1/s1_e19.txt:30:Ross: Yes. Yes. Yes! Yes, I really do! In fact, it's funny, very often, someone who you wouldn't think could-could curl your toes, might just be the one who...
+s1/s1_e19.txt:33:Ross: ...Gets interrupted. Hi!
+s1/s1_e19.txt:44:Ross: Alright, I've gotta go. C'mon, Marcel! C'mon! We're gonna go take a bath. Yes we are, aren't we? Yes, we are.
+s1/s1_e19.txt:47:Ross: That's right, you're gonna spend tomorrow at Aunt Rachel's, aren't you.
+s1/s1_e19.txt:49:Ross: 'Pwease, Aunt Monica, pwease?' Oh, unclench. You're not even gonna be there.
+s1/s1_e19.txt:54:Ross: I'm telling you, she said she's looking for a relationship with someone exactly like me.
+s1/s1_e19.txt:56:Ross: Well, I added the 'exactly like me' part... But she said she's looking for someone, and someone is gonna be there tonight.
+s1/s1_e19.txt:58:Ross: Well, I think it's perfect. Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey...
+s1/s1_e19.txt:60:Ross: Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.
+s1/s1_e19.txt:102:Ross: Hey. How did, uh, how'd it go today?
+s1/s1_e19.txt:104:Ross: Yeah. You, uh, you want some?
+s1/s1_e19.txt:106:Ross: Uh, okay, yeah, we could do that, but before we head off to the murder capital of the North-East, I was, uh, kinda wanting to run something by you. Y'know how we were, uh, y'know, talking before about, uh, relationships and stuff? (Uncorks the wine) Well-
+s1/s1_e19.txt:108:Ross: Okay, quick and painful. (Starts to cork the wine)
+s1/s1_e19.txt:110:Ross: Oh, what? What-what?
+s1/s1_e19.txt:112:Ross: ...Yeah?
+s1/s1_e19.txt:117:Ross: (Angry) I- I- I ca- I can't believe this. I mean, all I asked you to do was keep him in the apartment.
+s1/s1_e19.txt:119:Ross: No, y'know what, I guess it's partially my fault. Y'know, I shouldn't've, uh, asked you to start off with a monkey. I should've started you off with like a pen or a pencil.
+s1/s1_e19.txt:123:Ross: You called Animal Control?
+s1/s1_e19.txt:125:Ross: Marcel is an illegal exotic animal. I'm not allowed to have him in the city. If they find him, they'll take him away from me.
+s1/s1_e19.txt:127:Ross: That's right, I.. 'cause I didn't expect you were gonna invite them to the apartment!
+s1/s1_e19.txt:132:Ross: Yeah, we thought we had a monkey, but we-we didn't.
+s1/s1_e19.txt:134:Ross: Cat!
+s1/s1_e19.txt:139:Ross: My uncle Marcel.
+s1/s1_e19.txt:211:Ross: Marcel?
+s1/s1_e19.txt:213:Ross: Marc- oh, this is ridiculous! We've been all over the neighbourhood. He's gone, he's-he's just gone.
+s1/s1_e19.txt:215:Ross: Oh come on. It's cold, it's dark, he doesn't know the Village. (Kicks a sign in frustration) And now I have a broken foot. I have no monkey, and a broken foot! Thank you very much.
+s1/s1_e19.txt:217:Ross: Yeah, yeah. Y'know, now that you kicked the sign, hey! I don't miss Marcel any more!
+s1/s1_e19.txt:219:Ross: Oh, no no no. Nono, this is just vintage Rachel. I mean, things just sort of happen around you. I mean, you're off in Rachel-land, doing your Rachel-thing, totally oblivious to people's monkeys, or to people's feelings...
+s1/s1_e19.txt:221:Ross: I don't even wanna hear it, you're just...
+s1/s1_e19.txt:223:Ross: Oh, forget it, okay?
+s1/s1_e19.txt:225:Ross: What? What?
+s1/s1_e19.txt:231:Ross: Hi, did you order some bananas?
+s1/s1_e19.txt:233:Ross: Gimme back my monkey.
+s1/s1_e19.txt:238:Ross: Marcel? Marcel? Okay, where is he? Where is he? Marcel? Marcel?
+s1/s1_e19.txt:240:Ross: Marcel! What've you done to him?
+s1/s1_e19.txt:242:Ross: Are you insane? C'mere, Marcel, c'mon. (Marcel starts to go to him)
+s1/s1_e19.txt:244:Ross: C'mere, Marcel. (Turns to Ross)
+s1/s1_e19.txt:247:Ross: Okay, gimme my monkey back.
+s1/s1_e19.txt:251:Ross: Alright, I want my monkey.
+s1/s1_e19.txt:255:Ross: (To Rachel) You had to be a bitch in high school, you couldn't've been fat.
+s1/s1_e19.txt:260:Ross: It'll be nice to get this off finally, won't it? Yes it will. (Marcel resists) Or we can leave it on for now, that's fine.
+s1/s1_e19.txt:262:Ross: Listen, I'm- I'm sorry I was so hard on you before, it's just I...
+s1/s1_e19.txt:264:Ross: Yeah, but you were the one who got him back, y'know? You, you were great. ...Hey, we uh, we still have that, uh, that bottle of wine. You in the mood for, uh, something grape?
+s1/s1_e19.txt:266:Ross: Alright. (He goes to get the glasses. Then he hesitates and turns off the main light. Rachel looks round and he acts surprised) The, uh, the neighbours must be vacuuming. (He sits down and starts to pour the wine) Well, so long as we're here and, uh, not on the subject, I was thinking about, uh, how mad we got at each other before, and, um, I was thinking maybe it was partially because of how we, um...
+s1/s1_e19.txt:271:Ross and Rachel: Oh!
+s1/s1_e19.txt:272:Ross: We have got to start locking that door!
+s1/s1_e2.txt:10:Ross: Yeah, and-and it's not that we don't like the comedian, it's that-that... that's not why we bought the ticket.
+s1/s1_e2.txt:16:Ross: No, it's good, it is good, it's just that- mm- doesn't she seem a little angry?
+s1/s1_e2.txt:18:Ross: Does she.
+s1/s1_e2.txt:20:Ross: Marsha, these are cave people. Okay? They have issues like 'Gee, that glacier's getting kinda close.' See?
+s1/s1_e2.txt:23:Ross: (trying to ignore her) No. No.
+s1/s1_e2.txt:25:Ross: Okay, okay, yes, it is. (waves) How about I'll, uh, catch up with you in the Ice Age.
+s1/s1_e2.txt:27:Ross:Hi.
+s1/s1_e2.txt:29:Ross: You look great. I, uh... I hate that.
+s1/s1_e2.txt:31:Ross: Ah, well, in here, anyone who... stands erect... So what's new? Still, uh...
+s1/s1_e2.txt:33:Ross: Well... you never know. How's, um.. how's the family?
+s1/s1_e2.txt:35:Ross: Why- why are you here, Carol?
+s1/s1_e2.txt:37:Ross: Pregnant?!
+s1/s1_e2.txt:78:Ross: (standing outside the door).....Hi.
+s1/s1_e2.txt:80:Ross: Carol's pregnant.
+s1/s1_e2.txt:83:Ross: Yeah. Do that for another two hours, you might be where I am right about now. (He enters.)
+s1/s1_e2.txt:86:Ross: Well, Carol says she and Susan want me to be involved, but if I'm not comfortable with it, I don't have to be involved.. basically it's entirely up to me.
+s1/s1_e2.txt:90:Ross: Anyway, they want me to go down to this- sonogram thing with them tomorrow.
+s1/s1_e2.txt:92:Ross: I have no idea. No matter what I do, though, I'm still gonna be a father.
+s1/s1_e2.txt:99:Ross: I- I think they're great! I, I really do.
+s1/s1_e2.txt:102:Ross: Aw, Mom...
+s1/s1_e2.txt:108:Ross: Yeah. (They go to the kitchen.)
+s1/s1_e2.txt:124:Ross: (pulls his hand away) Okay! Okay. (To his parents) Look, I, uh- I realise you guys have been wondering what exactly happened between Carol and me, and, so, well, here's the deal. Carol's a lesbian. She's living with a woman named Susan. She's pregnant with my child, and she and Susan are going to raise the baby.
+s1/s1_e2.txt:130:Ross: Well, y'know, these people are pros. They know what they're doing, they take their time, they get the job done.
+s1/s1_e2.txt:132:Ross: Must pee. (Goes to pee.)
+s1/s1_e2.txt:143:Ross: ...How long was I in there?
+s1/s1_e2.txt:145:Ross: D'ya.. uh.. d'ya need any help?
+s1/s1_e2.txt:147:Ross: Anyway.. um.. (Starts to sweep.) So, you- uh- you nervous about Barry tomorrow?
+s1/s1_e2.txt:149:Ross: Mm-hmm..
+s1/s1_e2.txt:151:Ross: Mm.
+s1/s1_e2.txt:153:Ross: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...
+s1/s1_e2.txt:155:Ross: Got me.
+s1/s1_e2.txt:157:Ross: Yeah.
+s1/s1_e2.txt:159:Ross: Yes, yes!
+s1/s1_e2.txt:161:Ross: Me either... (He pulls up a stool so that he doesn't have to move his hand.)
+s1/s1_e2.txt:163:Ross: (entering) Sorry I'm late, I was stuck at work. There was this big dinosaur.. thing.. anyway.
+s1/s1_e2.txt:167:Ross: How could I forget?
+s1/s1_e2.txt:169:Ross: (they shake hands) Hello, Susan. (To Carol) Good shake. Good shake. So, uh, we're just waiting for...?
+s1/s1_e2.txt:171:Ross: ..Dr. Oberman. Okay. And is he-
+s1/s1_e2.txt:173:Ross: -she, of course, she- uh- familiar with our.. special situation?
+s1/s1_e2.txt:175:Ross: Okay, that's great. (Susan gives her drink to Carol.) No, I'm- Oh. 
+s1/s1_e2.txt:177:Ross: (picks up a surgical instrament and mimes a duck with it) Quack, quack..
+s1/s1_e2.txt:194:Ross: So, um- so how's this, uh, how's this gonna work? Y'know, with us? Y'know, when, like, important decisions have to be made?
+s1/s1_e2.txt:196:Ross: Well, uh, uh, I don't know, okay, okay, how about with the, uh, with the baby's name?
+s1/s1_e2.txt:198:Ross: Marlon?!
+s1/s1_e2.txt:200:Ross: ...As in Mouse?
+s1/s1_e2.txt:202:Ross: Still, you- you say Minnie, you hear Mouse. Um, how about, um.. how about Julia?
+s1/s1_e2.txt:205:Ross: 'S'funny, um, uh, we agreed we'd spend the rest of our lives together. Things change, roll with the punches. I believe Julia's on the table..?
+s1/s1_e2.txt:234:Ross: Helen Geller? I don't think so.
+s1/s1_e2.txt:236:Ross: Thank you!
+s1/s1_e2.txt:238:Ross: What, it's gonna be Helen Willick?
+s1/s1_e2.txt:240:Ross: Well, wait a minute, wha- why is she in the title?
+s1/s1_e2.txt:242:Ross: Oh, 's'funny, really? Um, I don't remember you making any sperm.
+s1/s1_e2.txt:245:Ross: No no no, she gets a credit, hey, I'm in there too.
+s1/s1_e2.txt:247:Ross: Of course not, I'm... suggesting Geller-Willick-Bunch.
+s1/s1_e2.txt:249:Ross: My way?! You-you think this is my way? Believe me, of all the ways I ever imagined this moment in my life being, this is not my way- y'know what? Uh, um, this is too hard. I'm not, I can't do-
+s1/s1_e2.txt:253:Ross: You- uh- y'know what, I'm gonna go. I don't- I don't think I can be involved in this particular thing right now.
+s1/s1_e2.txt:255:Ross: Oh my God.
+s1/s1_e2.txt:260:Ross: Well? Isn't that amazing?
+s1/s1_e2.txt:264:Ross: Then don't do that, alright?
+s1/s1_e2.txt:266:Ross: (walks over to where Monica is standing)Monica. Whaddya think?
+s1/s1_e2.txt:268:Ross: Wh- are you welling up?
+s1/s1_e2.txt:270:Ross: You are, you're welling up.
+s1/s1_e2.txt:272:Ross: You're gonna be an aunt.
+s1/s1_e20.txt:6:Ross: I don't know, you don't wanna mess with corn nuts. They're craaazy.
+s1/s1_e20.txt:8:Ross: I can't believe it! He's looking right at us!
+s1/s1_e20.txt:26:Ross: Okay, okay, what's going on?
+s1/s1_e20.txt:28:Ross: Yeah, well, does he look upset? Does he look like he was just told to shove anything?
+s1/s1_e20.txt:30:Ross: What? What? What?!
+s1/s1_e20.txt:39:Ross: That's nice... now, was that before or after you told him to stop calling, stop sending you flowers and to generally leave you alone, hmm?
+s1/s1_e20.txt:41:Ross: That's, that's nice twice!
+s1/s1_e20.txt:61:Ross: What was with the dishes?
+s1/s1_e20.txt:104:Ross: ...desperate, needy, pathetic?
+s1/s1_e20.txt:120:Ross: You-you had what?
+s1/s1_e20.txt:122:Ross: What, uh... what were you thinking?
+s1/s1_e20.txt:124:Ross: No! No no, it is nothing like me and Carol!
+s1/s1_e20.txt:128:Ross: It's, it's, it's, uh, a totally diferent situation! It's, it's apples and oranges, it's, it's orthodontists and lesbi- I gotta go.
+s1/s1_e20.txt:130:Ross: (leaving) I just have to go, all right? Do I need a reason? Huh? I mean I have things to do with my life, I have a jam packed schedule, and I am late- for keeping up with it. Okay?
+s1/s1_e20.txt:199:Ross: Four letters: "Circle or hoop".
+s1/s1_e20.txt:201:Ross: Thanks.
+s1/s1_e20.txt:210:Ross: "Heating device."
+s1/s1_e20.txt:212:Ross: Five letters.
+s1/s1_e20.txt:262:Ross: I just wanna clarify this: are you outing Mr. Peanut?
+s1/s1_e20.txt:277:Ross: Second date!
+s1/s1_e21.txt:8:Ross: I think when someone steals your credit card, they've kind of already thrown caution to the wind.
+s1/s1_e21.txt:12:Ross: Marcel, stop humping the lamp! Stop humping! Now Marcel, come back- (Marcel runs toward Rachel's room) come here, Marcel-
+s1/s1_e21.txt:15:Ross: What? It's, it's just a phase.
+s1/s1_e21.txt:17:Ross: Would you all relax? It's not that big a deal.
+s1/s1_e21.txt:19:Ross: What?
+s1/s1_e21.txt:99:Ross: (Mortified) Hi.
+s1/s1_e21.txt:102:Ross: At the vet.
+s1/s1_e21.txt:104:Ross: She says Marcel's humping thing's not a phase. Apparently he's reached sexual maturity.
+s1/s1_e21.txt:106:Ross: She says as time goes on, he's gonna start getting agressive and violent.
+s1/s1_e21.txt:108:Ross: I'm gonna have to give him up.
+s1/s1_e21.txt:113:Ross: I know. I know. I mean, one day, he's this little thing, and before you know it, he's this little thing I can't get off my leg.
+s1/s1_e21.txt:115:Ross: No, no. The vet says unless he's in a place where he has regular access to some... monkey lovin,' he's just gonna get vicious. I've just gotta get him into a zoo.
+s1/s1_e21.txt:118:Ross: Well, we're applying to a lot of them. Naturally our first choice would be one of the bigger state zoos, y'know, like, uh, San Diego... right? But that might just be a pipe dream, because, y'know, he's out of state. Uh, my vet, uh, knows someone at Miami, so that's a possibility.
+s1/s1_e21.txt:126:Ross: What?! Are you insane? This woman stole from you. She stole. She's a stealer.
+s1/s1_e21.txt:128:Ross: Yeah, which she probably stole from some cheerleader.
+s1/s1_e21.txt:151:Ross: (Reading letters) Oh God. (To Marcel) We didn't get into Scranton. (To the others) That was like our safety zoo. They take like dogs and cows. See? I don't know who this is harder on, me or him.
+s1/s1_e21.txt:153:Ross: Marcel! Marcel! Marcel, no! Good boy. See, how can nobody want him?
+s1/s1_e21.txt:162:Ross: Where exactly is your zoo?
+s1/s1_e21.txt:164:Ross: Yes.
+s1/s1_e21.txt:166:Ross: No-no, he's, he's very docile.
+s1/s1_e21.txt:168:Ross: Well I, I don't know. Why?
+s1/s1_e21.txt:170:Ross: He can hold a banana, if that's whatcha mean...
+s1/s1_e21.txt:172:Ross: Why- why- why would he need a blade?
+s1/s1_e21.txt:178:Ross: He's in! Oh, did you hear that, Marcel? San Diego. San Diego!
+s1/s1_e21.txt:226:Ross: Aww. Thank you, Aunt Phoebe.
+s1/s1_e21.txt:230:Ross: Just, just say what you feel.
+s1/s1_e21.txt:232:Ross: That was good.
+s1/s1_e21.txt:234:Ross: Uh, if you guys don't mind, I'd like to take a moment, just me and him.
+s1/s1_e21.txt:236:Ross: Marcel, c'mere, c'mere. (He sits down and Marcel jumps down and sits beside him) Well buddy, this is it. There's just a coupla things I want to say. I'm really gonna miss you, and I'm never gonna forget about you. You've been more than just a pet to me, you've been more like a be- (Marcel climbs down and starts humping his leg) Okay, Marcel, please, could you leave my leg alone? Could you just stop humping me for two seconds?! Marcel, would- okay, just take him away. Just take him.
+s1/s1_e22.txt:16:Ross: Why, why, why would you dream that?
+s1/s1_e22.txt:21:Ross: I love it, when we share.
+s1/s1_e22.txt:24:Ross: I can't belive you two had sex in her dream.
+s1/s1_e22.txt:33:Ross: Pheebs, why would you want to operate a drill press?
+s1/s1_e22.txt:46:Ross: Oh, it's my new beeper.
+s1/s1_e22.txt:49:Ross: No, it's for when Carol goes into labor. She can get me wherever I am. I mean, all she has to do is to dial 55-JIMBO.
+s1/s1_e22.txt:58:Ross: College?
+s1/s1_e22.txt:99:Ross: Oh, oh. Oh, oh. Oh this is it. Oh my god it's baby time. Baby time.
+s1/s1_e22.txt:102:Ross: (on phone) Yeah, hi, I was just beeped. (pause) No, Andr� is not here. (to Joey) Third time today. (on phone) Yes, I'm sure... No, sir. I don't perform those kind of services.
+s1/s1_e22.txt:104:Ross: (on phone) Yeah, you want 55-JUMBO. Yeah, that's right. That's right, JUMBO with a U, sir. (pause) No, belive me, you don't want me. Judging by his number, I'd be a huge disappointment. (pause) All rightie, bye bye.
+s1/s1_e22.txt:125:Ross: Oh, oh Chandler...
+s1/s1_e22.txt:127:Ross: 'The hills were alive with the sound of music.'
+s1/s1_e22.txt:191:Ross: (on phone) Okay, Andr� should be there in like 45 minutes. All rightie, bye bye. (to Phoebe) Just easier that way.
+s1/s1_e22.txt:197:Ross: Was there...uh, huh, huh, huh... andybody, anybody else there.
+s1/s1_e22.txt:199:Ross: You're sure? Nobody uh, handed out uh, mints or anything?
+s1/s1_e22.txt:201:Ross: Huh!
+s1/s1_e22.txt:209:Ross, Rachel, and Phoebe: Hey, Mon.
+s1/s1_e22.txt:216:Ross: Are you not seeing him anymore?
+s1/s1_e22.txt:223:Ross: Oh, yeah.
+s1/s1_e22.txt:226:Ross: It's morphin time!
+s1/s1_e22.txt:258:Ross: Oh, Carol and I have a new system. If she punches in 911, it means she's having a baby, otherwise I just ignore it.
+s1/s1_e22.txt:260:Ross: Oh, well this morning he got a call from who I think was our cousin Nathan, and frankly, it was a little more than I needed to know.
+s1/s1_e22.txt:265:Ross: I thought that was just a rumour.
+s1/s1_e22.txt:278:Ross: Are you're hands still wet?
+s1/s1_e22.txt:297:Ross: I'm here.
+s1/s1_e22.txt:299:Ross: What? (his beeper goes off) Great, now I'm having a baby.
+s1/s1_e22.txt:301:Ross: Ooh, Ooh.
+s1/s1_e22.txt:303:Ross: I'm having... I'm having a baby. (jumps back onto the table again) I'm having a... Where's the phone? The phone?
+s1/s1_e22.txt:307:Ross: I'm hurt.
+s1/s1_e22.txt:310:Ross: Monica, let's go. Come on now people, woman in labor.
+s1/s1_e22.txt:313:Ross: Yeah, save it for the cab, okay.
+s1/s1_e22.txt:315:Ross: What are you doing? We're going to a hospital.
+s1/s1_e22.txt:317:Ross: Joey, get out of the fridge.
+s1/s1_e22.txt:319:Ross: What is that? (refering to the sandwich)
+s1/s1_e22.txt:322:Ross: Save it.
+s1/s1_e22.txt:324:Ross: Monica, come on now. Let's go, baby coming.
+s1/s1_e22.txt:327:Ross: That's nice. Get out Let's go, come on.
+s1/s1_e23.txt:6:Ross: She's not here yet. She's not here. She's having my baby and she's not here.
+s1/s1_e23.txt:8:Ross: I don't know, but when I spoke to her, she said she had already passed the mucus plug.
+s1/s1_e23.txt:14:Ross: God, I don't believe this. She could be giving birth in the cab.
+s1/s1_e23.txt:21:Ross: She's not even here yet.
+s1/s1_e23.txt:25:Ross: (to Carol) Where the hell have you been?
+s1/s1_e23.txt:28:Ross: Susan wanted a Chunky. We're having a baby, ok, a baby, you don't stop for Chunkys.
+s1/s1_e23.txt:34:Ross: Stopped for a Chunky.
+s1/s1_e23.txt:37:Ross: (weakly) No.
+s1/s1_e23.txt:40:Ross: Dr. Franzblau, hi.
+s1/s1_e23.txt:44:Ross: 59 seconds. (holds up his watch) Quartz, ha.
+s1/s1_e23.txt:48:Ross: I'll get it.
+s1/s1_e23.txt:50:Ross: I got it—I'm getting it!
+s1/s1_e23.txt:90:Ross: Yeah. I'm paying you to stop.
+s1/s1_e23.txt:135:Ross: Breathe.
+s1/s1_e23.txt:137:Ross: Breathe.
+s1/s1_e23.txt:139:Ross: Breathe.
+s1/s1_e23.txt:142:Ross: 15 more seconds, 14, 13, 12...
+s1/s1_e23.txt:145:Ross: Who the hell is Jordie?
+s1/s1_e23.txt:147:Ross: No-no-no. I don't have a son named Jordie. We all agreed, my son's name is Jamie.
+s1/s1_e23.txt:149:Ross: What? Whoa, whoa whoa whoa, what do you mean, back to Jordie? We never landed on Jordie. We just passed by it during the whole Jessy, Cody, Dylan fiasco.
+s1/s1_e23.txt:151:Ross: I got it.
+s1/s1_e23.txt:153:Ross: I got it! Hey, you get to sleep with her, I get the cramps.
+s1/s1_e23.txt:156:Ross: Why?
+s1/s1_e23.txt:158:Ross: No, you started it.
+s1/s1_e23.txt:161:Ross: But...
+s1/s1_e23.txt:163:Ross: (to Susan) Thanks a lot.
+s1/s1_e23.txt:165:Ross: (to Carol) Yeah, listen...
+s1/s1_e23.txt:177:Ross: Please. This is so your fault.
+s1/s1_e23.txt:179:Ross: Look, Carol never threw me out of a room before you came along.
+s1/s1_e23.txt:181:Ross: You tryin' to be clever? A funny lady?
+s1/s1_e23.txt:183:Ross: Oh, I'm threatened by you?
+s1/s1_e23.txt:187:Ross: Yeah, Susan.
+s1/s1_e23.txt:194:Ross: I'm having a baby in here! Ok, everyone stand back. (Walks backwards as if he is going to break down the door, but steps in a bucket and falls) Ow.
+s1/s1_e23.txt:207:Ross: Help! Help!
+s1/s1_e23.txt:239:Ross: Come on, come on. Damnit, damnit, damnit, damnit. (to Susan) This is all your fault. This is supposed to be, like, the greatest day of my life, y'know? My son is being born, and I should be in there, you know, instead of stuck in a closet with you.
+s1/s1_e23.txt:241:Ross: No no no, believe me. No one has been waiting for this as much as I have, ok? And you know what the funny thing is? When this day is over, you get to go home with the baby, ok? Where does that leave me?
+s1/s1_e23.txt:243:Ross: Every day is Lesbian Lover Day.
+s1/s1_e23.txt:245:Ross: You wanna explain that?
+s1/s1_e23.txt:261:Ross: Ok, got the vent open.
+s1/s1_e23.txt:263:Ross: Ben, you ready? All right, gimme your foot. Ok, on three, Ben. One, two, three. Ok, That's it, Ben.
+s1/s1_e23.txt:268:Ross: Phoebs, It's open! It's open!
+s1/s1_e23.txt:273:Ross: We're here!
+s1/s1_e23.txt:275:Ross: Long story, honey.
+s1/s1_e23.txt:283:Ross: Let me see, I gotta see, I gotta see. Oh, a head. Oh, it's, it's huge. Carol, how are you doing this?
+s1/s1_e23.txt:286:Ross: (puts his head near the baby) Hello! (to Dr. Franzblau) Oh, sorry.
+s1/s1_e23.txt:288:Ross: We got a head, we got shoulders, we got arms, we got, oh, look at the little fingers, oh, and a chest, and a stomach. It's a boy, definitely a boy! All right! Ok, legs, knees, and feet. Oh, oh. He's here. He's a person.
+s1/s1_e23.txt:291:Ross: Kinda like my uncle Ed, covered in Jell-o.
+s1/s1_e23.txt:294:Ross: Oh, thanks, Pheebs!
+s1/s1_e23.txt:298:Ross: (thinking) How 'bout Ben?
+s1/s1_e23.txt:301:Ross: We uh, we just cooked it up.
+s1/s1_e23.txt:305:Ross: Hey.
+s1/s1_e23.txt:308:Ross: (to Ben) I know, I know. Everybody, there's someone I'd like you to meet. Yeah. This is Ben. Ben, this is everybody.
+s1/s1_e23.txt:315:Ross: The head, the head. You gotta...
+s1/s1_e23.txt:319:Ross: Ben, I want you to know that there may be some times when I may not be around, like this. (walks out of the picture) But I'll still always come back, like this. (returns) And sometimes I may be away longer, like this. (walks away) But I'll still always come back, like this. (returns)
+s1/s1_e23.txt:328:Ross: No, this is pretty much it.
+s1/s1_e23.txt:332:Ross: All right, I'll see you guys later.
+s1/s1_e24.txt:4:Ross: And here's little Ben nodding off...
+s1/s1_e24.txt:9:Ross: (quietly) That would be nice.
+s1/s1_e24.txt:19:Ross: (overhearing) What kind of research?
+s1/s1_e24.txt:21:Ross: Science. Yeah, I think I've heard of that. (everyone's interest is piqued, they all look over)
+s1/s1_e24.txt:26:Ross: Hey.
+s1/s1_e24.txt:50:Ross: Hey. (Phoebe sees his bags)
+s1/s1_e24.txt:52:Ross: I'm going to China.
+s1/s1_e24.txt:55:Ross: Yeah, i-it's for the museum. Someone found a bone, we want the bone, but they don't want us to have the bone, so I'm going over there to try to persuade them to give us the bo—it's—it's a whole big bone thing. Anyway, I'm gonna be gone for like, uh... like a week, so, uh, if you wanna reach me, y-you can't. So here's my itinerary (hands a sheet of paper to Monica). Um... here's a picture of me... (hands it to Monica)
+s1/s1_e24.txt:57:Ross: (to Monica): Could you take it to Carol's every now and then, and show it to Ben, just so he doesn't forget me?
+s1/s1_e24.txt:61:Ross: Hey, is Rachel here? Um, I wanted to wish her a happy birthday before I left.
+s1/s1_e24.txt:63:Ross: Oh. (pause) Hey, who's Carl?
+s1/s1_e24.txt:65:Ross: No.
+s1/s1_e24.txt:67:Ross: At the coffeehouse, right.
+s1/s1_e24.txt:69:Ross: OK, I'm gonna go say goodbye to the guys.
+s1/s1_e24.txt:72:Ross: Hi.
+s1/s1_e24.txt:75:Ross: (sigh)....I have to go to China.
+s1/s1_e24.txt:77:Ross: No no, this big pile of dishes in my mom's breakfront. Do you guys know who Carl is?
+s1/s1_e24.txt:79:Ross: Well, Rachel's having drinks with him tonight.
+s1/s1_e24.txt:84:Ross: Yeah... I guess. I don't—I don't know. Alright, just... just give her this for me, OK? (gives Chandler a gift for Rachel)
+s1/s1_e24.txt:86:Ross: I know.
+s1/s1_e24.txt:164:Ross: (something in Chinese)
+s1/s1_e24.txt:166:Ross: Ni-chou chi-ma! (walks onto jetway)
+s1/s1_e24.txt:258:Ross: I can't believe you'd rather go out with him than me.
+s1/s1_e24.txt:260:Ross: Fine, just stop thinking about me.
+s1/s1_e24.txt:262:Ross: Can't do it, can you?
+s1/s1_e24.txt:264:Ross: I don't get it. What do you see in this guy, anyway?
+s1/s1_e24.txt:267:Ross: Rachel, come on. Give us a chance.
+s1/s1_e24.txt:269:Ross: No, no, no... why, because it might get weird for everyone else? Who cares about them. This is about us. Look, I-I've been in love with you since, like, the ninth grade.
+s1/s1_e24.txt:271:Ross: I know.
+s1/s1_e24.txt:273:Ross: Whoa, whoa, whoa. What makes you think we're gonna break up?
+s1/s1_e24.txt:275:Ross: (pause) No. But... it only has to happen once. Look, you and I both know we are perfect for each other, right? I mean... so, the only question is... are you attracted to me?
+s1/s1_e24.txt:277:Ross: Well, start looking.
+s1/s1_e24.txt:293:Ross: Oh, hey, hey, I got that.
+s1/s1_e24.txt:296:Ross: No problem. I cannot wait for you to meet my friends.
+s1/s1_e24.txt:298:Ross: Yeah.
+s1/s1_e24.txt:300:Ross: No, no, they will. I just... uh...
+s1/s1_e24.txt:301:Ross and Julie: Can't wait.
+s1/s1_e24.txt:302:Ross: Come on, they're gonna love you.
+s1/s1_e3.txt:6:Ross: Hey. Oh, oh, how'd it go?
+s1/s1_e3.txt:18:Ross: That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.
+s1/s1_e3.txt:20:Ross: What? Wh- hello? The Millners' farm in Connecticut? The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w- .....Oh my God, Chi Chi!
+s1/s1_e3.txt:52:Ross: Can I use.. either thumb?
+s1/s1_e3.txt:61:Ross: Easy.
+s1/s1_e3.txt:76:Ross: What is this?!
+s1/s1_e3.txt:80:Ross: Hold on a second, alright? Just think about what you went through the last time you quit.
+s1/s1_e3.txt:103:Ross: Yeah, well, you didn't know Chi Chi.
+s1/s1_e3.txt:111:Ross: Hey, Pheebs.
+s1/s1_e3.txt:130:Ross: ...I'll go. Let's start with the way he kept picking at- no, I'm sorry, I can't do this, can't do this. We loved him.
+s1/s1_e3.txt:138:Ross: ...What shoe?
+s1/s1_e3.txt:141:Ross: ...So I think Alan will become the yardstick against which all future boyfriends will be measured.
+s1/s1_e3.txt:145:Ross: You know what I like most about him, though?
+s1/s1_e3.txt:147:Ross: The way he makes me feel about myself.
+s1/s1_e3.txt:152:Ross: Well..
+s1/s1_e3.txt:156:Ross: He was unbelievable. He was like that-that-that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base-Alan, second base-Alan, third base-...
+s1/s1_e3.txt:160:Ross: What?
+s1/s1_e3.txt:163:Ross: Yeah, it's his, uh, innate Alan-ness that-that-that we adore.
+s1/s1_e3.txt:193:Ross: A thumb?!
+s1/s1_e3.txt:211:Ross: Oh, now, don't listen to him, Pheebs, I think it's endearing.
+s1/s1_e3.txt:214:Ross: You know, there's nothing wrong with speaking correctly.
+s1/s1_e3.txt:231:Ross: Don't you realise what you're-you're doing to yourself?
+s1/s1_e3.txt:236:Ross: If only he were a woman.
+s1/s1_e3.txt:241:Ross: Okay. I think it's time to change somebody's nicotine patch. (Does so.)
+s1/s1_e3.txt:246:Ross: (finishing changing Chandler's nicotine patch) There y'go.
+s1/s1_e3.txt:248:Ross: Hey Pheebs, you gonna have the rest of that Pop-Tart?.. Pheebs?
+s1/s1_e3.txt:250:Ross: Hey, I might!
+s1/s1_e3.txt:267:Ross: Is there somebody else?
+s1/s1_e3.txt:275:Ross: Who-who wants fair? Y'know, I just want things back. Y'know, the way they were.
+s1/s1_e3.txt:282:Ross: Hey hey, we'll be fine. We're just gonna need a little time.
+s1/s1_e3.txt:293:Ross: Yeah. He could row like a viking.
+s1/s1_e3.txt:296:Ross: So how'd it go?
+s1/s1_e3.txt:300:Ross: You had a rough day, huh.. c'mere. (She sits down and Ross strokes her forehead.)
+s1/s1_e4.txt:6:Ross: Yeah, see.. you took mine. Chandler, what about you?
+s1/s1_e4.txt:14:Ross: Joey, uh- OMnipotent.
+s1/s1_e4.txt:19:Ross: I cannot sleep in a public place.
+s1/s1_e4.txt:22:Ross: It's okay, y'know, you just nodded off again.
+s1/s1_e4.txt:25:Ross: Why?
+s1/s1_e4.txt:35:Ross: Funny, my birthday was seven months ago.
+s1/s1_e4.txt:37:Ross: So, I'm guessing you had an extra ticket and couldn't decide which one of you got to bring a date?
+s1/s1_e4.txt:39:Ross: Oh my God, oh- is today the twentieth, October twentieth?
+s1/s1_e4.txt:41:Ross: Ohhh.
+s1/s1_e4.txt:44:Ross: Today's the day Carol and I first.. consummated our physical relationship. (Joey is puzzled.) Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.
+s1/s1_e4.txt:47:Ross: What are you doing?
+s1/s1_e4.txt:50:Ross: Alright, alright, maybe it'll take my mind off it. Do you promise to buy me a big thumb finger?
+s1/s1_e4.txt:60:Ross: You can totally, totally live on this.
+s1/s1_e4.txt:62:Ross: Oh, by the way, great service tonight.
+s1/s1_e4.txt:82:Ross: Carol was wearing boots just like those the night that we- we first- y'know. Fact, she, uh- she never took'em off, 'cause we-we- (off Chandler's look) Sorry. Sorry.
+s1/s1_e4.txt:85:Ross: Peach pit.
+s1/s1_e4.txt:87:Ross: (points) Peach pit. That night we, uh- we had-
+s1/s1_e4.txt:89:Ross: Actually, nectarines, but basically...
+s1/s1_e4.txt:91:Ross: Then, uh, then we got dressed, and I-I... I walked her to the- (looks up, realises, and points) -the bus stop... I'm fine.
+s1/s1_e4.txt:121:Ross: (squeezing past people) Sorry, sorry... Uh-oh.
+s1/s1_e4.txt:123:Ross: No, actually I was just saying it looks like we're not sitting together. But now you mention it, there was ice there that night... It was the first frost...
+s1/s1_e4.txt:145:Ross: Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!
+s1/s1_e4.txt:147:Ross: Pass it! Pass it!
+s1/s1_e4.txt:159:Ross: (jumping to his feet) Look, I don't wanna make any trouble, okay, but I'm in a lot of pain here, alright? My face is dented.
+s1/s1_e4.txt:163:Ross: Hey, this- (she gives him a look and the guys back off) Heyy...
+s1/s1_e4.txt:211:Ross: I remember the moonlight coming through the window- and her face had the most incredible glow.
+s1/s1_e4.txt:214:Ross: Look, it's just a little more complicated...
+s1/s1_e4.txt:216:Ross: Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...
+s1/s1_e4.txt:218:Ross: My first time with Carol was... (He mumbles the last part)
+s1/s1_e4.txt:220:Ross: It was my first time.
+s1/s1_e4.txt:251:Ross: Hi. (He is wearing a piece of steel bandaged to his nose.  He tosses some forms onto reception desk.)
+s1/s1_e4.txt:254:Ross: Fun? Where was the fun? Tell me specifically, which part was the fun part? Where's my puck?
+s1/s1_e4.txt:256:Ross: The kid...? (To the kid) Excuse me, uh, that's, that's my puck.
+s1/s1_e4.txt:259:Ross: (to the kid) Oh yeah? Well, I'm rubber, you're glue, whatever—(to Chandler)—can't do it. (to the kid) Listen, uh- gimme back my puck.
+s1/s1_e4.txt:261:Ross: 'Yes', how about. C'mere. Gimme!
+s1/s1_e4.txt:264:Ross: (tries to snatch it from the kid) GIVE ME MY PUCK!! (but it files out of his grasp and knocks out the receptionist)
+s1/s1_e4.txt:265:Ross: ...Now that was fun.
+s1/s1_e4.txt:268:Ross: (Doing the spinning) Okay, Monica: Right foot red.
+s1/s1_e4.txt:272:Ross: Okay, Pheebs: Right hand blue. (Phoebe has to bend over.)Good. (Joey stares at her butt appreciatively)
+s1/s1_e4.txt:278:Ross: Green. To the green.
+s1/s1_e5.txt:6:Ross: Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?
+s1/s1_e5.txt:12:Ross: Multiple orgasms!
+s1/s1_e5.txt:17:Ross: Not even, say, breaking up with Janice?
+s1/s1_e5.txt:25:Ross: Tony?
+s1/s1_e5.txt:29:Ross: Oh, yeah, last week you had a wonderful, nutty, chocolatey kind of a cakey pie thing. (Rachel gives him a dirty look) Nothing, just, just, I'm fine.
+s1/s1_e5.txt:32:Ross: That guy, he burns me up.
+s1/s1_e5.txt:50:Ross: So, uh, Rachel, what are you, uh, what're you doing tonight?
+s1/s1_e5.txt:52:Ross: Oh, you uh, you wanna hear a freaky coincidence? Guess who's doing laundry there too?
+s1/s1_e5.txt:54:Ross: Me. Was that not clear? Hey, why don't, um, why don't I just join you both, here?
+s1/s1_e5.txt:56:Ross: Yes, I do have a laundry room in my building, um, but there's a.... rat problem. Apparently they're attracted to the dryer sheets, and they're goin' in fine, but they're comin' out all.... fluffy. Anyway, say, sevenish?
+s1/s1_e5.txt:80:Ross: (on phone) Ok, bye. (hangs up) Well, Monica's not coming, it's just gonna be me and Rachel.
+s1/s1_e5.txt:82:Ross: It's laundry. The thinking through is minimal.
+s1/s1_e5.txt:84:Ross: Nuh-uh.
+s1/s1_e5.txt:86:Ross: So what're you saying here? I should shave again, pick up some wine, what?
+s1/s1_e5.txt:88:Ross: (sheepish) No.
+s1/s1_e5.txt:90:Ross: Ok, ok, now what is wrong with my Snuggles? What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear. Ok, I can pick something else up on the way.
+s1/s1_e5.txt:140:Ross: What's goin' on?
+s1/s1_e5.txt:142:Ross: Was your basket on top?
+s1/s1_e5.txt:144:Ross: So?
+s1/s1_e5.txt:146:Ross: No suds? Excuse me, hold on a second. (to woman) That's my friend's machine.
+s1/s1_e5.txt:148:Ross: Hey, hey, hey, that's not the rule and you know it.
+s1/s1_e5.txt:150:Ross: (to the crowd in the laundromat) All right, show's over. Nothing to see here. (to Rachel) Ok, let's do laundry.
+s1/s1_e5.txt:152:Ross: Well, that's because you're such a sweet, gentle, uh...Do you, uh, do you...Oh, hey, uh you must need detergent.
+s1/s1_e5.txt:155:Ross: Uberveiss. It's new, it's German, it's extra-tough.
+s1/s1_e5.txt:157:Ross: Rach, do you uh, are you gonna separate those?
+s1/s1_e5.txt:159:Ross: Rach, have you never done this before?
+s1/s1_e5.txt:161:Ross: Uh, well, don't worry, I'll use the gentle cycle. Ok, um, basically you wanna use one machine for all your whites, a whole nother machine for colors, and a third for your uh, your uh, delicates, and that would be your bras and your under-panty things.
+s1/s1_e5.txt:163:Ross: (visibly nervous) Uh, that, that, that would be a judgment call.
+s1/s1_e5.txt:194:Ross: That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? (the buzzer on the washer goes off) I'm sorry, that's all the time we have. Next on Ross...(opens up the washer) Uh-oh.
+s1/s1_e5.txt:196:Ross: (not wanting to tell her) Uh-oh, uh-oh, the laundry's done. It's, uh, it's a song. The laundry song that we sing. (singing) Uh-oh the laundry's done, uh-oh, uh-oh.
+s1/s1_e5.txt:198:Ross: Nothing, nothing. Lee-lo, the laundry's done.
+s1/s1_e5.txt:200:Ross: All right, all right, it's just that you left a red sock in with all your whites, and now, everything's kinda pink.
+s1/s1_e5.txt:202:Ross: Yeah, uh, except for the red sock, which is still red. I'm sorry, please don't be upset, it could happen to anyone.
+s1/s1_e5.txt:249:Ross: You got the clothes clean. Now that's the important part.
+s1/s1_e5.txt:263:Ross: You were incredible! Brand new woman, ladies and gentlemen.
+s1/s1_e5.txt:266:Ross: Ok, um, uh, more clothes in the dryer? (Ross turns and bangs his head on an open dryer door.) I'm fine, I'm fine.
+s1/s1_e5.txt:268:Ross: No.
+s1/s1_e5.txt:272:Ross: Yeah.
+s1/s1_e5.txt:274:Ross: Yeah.
+s1/s1_e5.txt:281:Ross: What a beautiful story. Hey, I'm fine by the way.
+s1/s1_e6.txt:8:Ross: Oh, shhh, shh. Magic is about to happen.
+s1/s1_e6.txt:20:Ross: Is it? Feels like two.
+s1/s1_e6.txt:22:Ross: What?
+s1/s1_e6.txt:24:Ross: Oh. Hel-lo!
+s1/s1_e6.txt:30:Ross: He could never get a woman like that in a million years.
+s1/s1_e6.txt:37:Ross: C'mon! C'mon!
+s1/s1_e6.txt:90:Ross: No, of course not! (Thinks) ...Yeah, yeah, it is.
+s1/s1_e6.txt:95:Ross: Well, y'know, monogamy can be a, uh, tricky concept. I mean, anthropologically speaking-
+s1/s1_e6.txt:97:Ross: Fine. Fine, alright, now you'll never know.
+s1/s1_e6.txt:100:Ross: Alright. There's a theory, put forth by Richard Leakey-
+s1/s1_e6.txt:106:Ross: Oh yeah, nobody knows. And we're not supposed to ask.
+s1/s1_e6.txt:119:Ross: Oh c'mon! When we were kids, yours was the only Raggedy Ann doll that wasn't raggedy!
+s1/s1_e6.txt:121:Ross: Alright, you madcap gal. Try to imagine this. The phone bill arrives, but you don't pay it right away.
+s1/s1_e6.txt:123:Ross: Because you're a kook! Instead you wait until they send you a notice.
+s1/s1_e6.txt:129:Ross: Monica? You're Mom.
+s1/s1_e6.txt:139:Ross: C'mon, seriously, Joey, what's the part?
+s1/s1_e6.txt:147:Ross: You're right, you're right, it is...So you gonna invite us all to the big opening?
+s1/s1_e6.txt:225:Ross: Look at it this way: you dumped her. Right? I mean, this woman was unbelievably sexy, and beautiful, intelligent, unattainable... Tell me why you did this again?
+s1/s1_e6.txt:230:Ross: No? What happened, big guy?
+s1/s1_e6.txt:232:Ross: It felt like a 'big guy' moment.
+s1/s1_e6.txt:241:Ross: Yeah, I mean... I think when it's your shot, y'know, you-you know it's your shot. Did it... feel like your shot..?
+s1/s1_e6.txt:252:Ross: She is a kook.
+s1/s1_e7.txt:29:Ross: And officiating at tonight's blackout, is Rabbi Tribbiani.
+s1/s1_e7.txt:59:Ross: That's my sister.
+s1/s1_e7.txt:62:Ross: Pheebs, what about you?
+s1/s1_e7.txt:65:Ross: Disneyland, 1989, 'It's a Small World After All.'
+s1/s1_e7.txt:67:Ross: The ride broke down. So, Carol and I went behind a couple of those mechanical Dutch children... then they fixed the ride, and we were asked never to return to the Magic Kingdom.
+s1/s1_e7.txt:73:Ross: Step back.
+s1/s1_e7.txt:77:Ross: Well, it was the only thing to do there that didn't have a line.
+s1/s1_e7.txt:79:Ross: Come on.
+s1/s1_e7.txt:81:Ross: (sarcastically) And you didn't marry him because...?
+s1/s1_e7.txt:83:Ross: Probably. But you know, I'll tell you something. Passion is way overrated.
+s1/s1_e7.txt:85:Ross: It is. Eventually, it kind of... burns out. But hopefully, what you're left with is trust, and security, and... well, in the case of my ex-wife, lesbianism. So, you know, for all of those people who miss out on that passion... thing, there's all that other good stuff.
+s1/s1_e7.txt:87:Ross: But, um... I don't think that's going to be you.
+s1/s1_e7.txt:89:Ross: Uh-uh. See, I see.... big passion in your future.
+s1/s1_e7.txt:91:Ross: Mmmm.
+s1/s1_e7.txt:93:Ross: I do.
+s1/s1_e7.txt:97:Ross: (innocently) What?
+s1/s1_e7.txt:99:Ross: (acts surprised) What? (pause) Why not?
+s1/s1_e7.txt:101:Ross: No, no, no. I'm not in the zone.
+s1/s1_e7.txt:103:Ross: I'm taking my time, alright? I'm laying the groundwork. Yeah. I mean, every day I get just a little bit closer to...
+s1/s1_e7.txt:105:Ross: I will, I will. See, I'm waiting for the right moment. (Joey looks at him) What? What, now?
+s1/s1_e7.txt:107:Ross: Shhhh!
+s1/s1_e7.txt:109:Ross: We're shushing... because... we're trying to hear something. Listen. (everyone is silent) Don't you hear that?
+s1/s1_e7.txt:111:Ross: See?
+s1/s1_e7.txt:120:Ross: (to Joey) OK, here goes.
+s1/s1_e7.txt:122:Ross: I'm going to do it.
+s1/s1_e7.txt:124:Ross: You come out there, you're a dead man.
+s1/s1_e7.txt:126:Ross: Thanks. (Joey hugs him) OK.
+s1/s1_e7.txt:153:Ross: OK, I have a question. Well, actually, it's not so much a question as.. more of a general wondering... ment.
+s1/s1_e7.txt:155:Ross: OK. Here goes. For a while now, I've been wanting to, um....
+s1/s1_e7.txt:157:Ross: Yes, yes, that's right...
+s1/s1_e7.txt:159:Ross: What? (the cat jumps on his shoulders) Ow!
+s1/s1_e7.txt:167:Ross: Why don't we just put 'poor little Tooty' out in the hall?
+s1/s1_e7.txt:169:Ross: (nonchalantly) Yeah?
+s1/s1_e7.txt:190:Ross: (rolling) Lucky sixes....
+s1/s1_e7.txt:201:Ross: (jealous) So, um... where did Paolo come from?
+s1/s1_e7.txt:203:Ross: No, I mean tonight, in the building. Suddenly. Into our lives.
+s1/s1_e7.txt:205:Ross: That, that is funny... (to Joey).... and Rachel keeps touching him.
+s1/s1_e7.txt:226:Ross: (mocking Paolo) Blah blah blah, blah blah blah... blah blaaaaaah....
+s1/s1_e7.txt:228:Ross: Wha-What did he say that was so funny?
+s1/s1_e7.txt:230:Ross: That's... that's classic.
+s1/s1_e7.txt:239:Ross: Paolo. Hi.
+s1/s1_e7.txt:242:Ross: Listen. Um, listen. Something you should... know... um, Rachel and I... we're kind of a thing.
+s1/s1_e7.txt:244:Ross: Thing, yes. Thing.
+s1/s1_e7.txt:246:Ross: No, no, no. Technically the... sex is not... being had, but that's... see, that's not the point. See, um, the point is that... Rachel and I should be, er, together. You know, and if you get in the.... um...
+s1/s1_e7.txt:248:Ross: No, no, that's not where I was going. Er, if you get in the... way, of us becoming a thing, then I would be, well, very sad.
+s1/s1_e7.txt:250:Ross: Yeah! Se vice?
+s1/s1_e7.txt:252:Ross: So you do know a little English.
+s1/s1_e7.txt:254:Ross: Do you know the word crapweasel?
+s1/s1_e7.txt:256:Ross: That's funny, because you know, you are a huge crapweasel!
+s1/s1_e7.txt:267:Ross: Thank you.
+s1/s1_e7.txt:269:Ross: Kinda... spooky without any lights.
+s1/s1_e7.txt:272:Ross: OK, guys, guys? I have the definitive one. Mwwwooooo-hah-hah...
+s1/s1_e7.txt:274:Ross: Oh.. oh... oh.
+s1/s1_e8.txt:25:Ross: Nono, me neither. Although, uh, y'know, back in college, Susan Sallidor did.
+s1/s1_e8.txt:27:Ross: No. No, it's just 'cause, uh, I kinda wanted to go out with her too, so I told her, actually, you were seeing Bernie Spellman... who also liked her, so...
+s1/s1_e8.txt:40:Ross: (to Joey) So he's calling from Rome. I could do that. Just gotta go to Rome.
+s1/s1_e8.txt:44:Ross: So, uh, how's she doing?
+s1/s1_e8.txt:54:Ross: Okay, relax, relax. We are gonna be here for a while, it looks like, and we still have boyfriends and your career to cover.
+s1/s1_e8.txt:59:Ross: Oh! ...Yeah, they were gross. Oh, you know what I loved? Her Sweet 'n' Los. How she was always stealing them from- from restaurants.
+s1/s1_e8.txt:64:Ross: She looks so small.
+s1/s1_e8.txt:66:Ross: Well, at least she's with Pop-Pop and Aunt Phyllis now.
+s1/s1_e8.txt:68:Ross: Bye, Nana.
+s1/s1_e8.txt:73:Ross: Y'know how-how the nurse said that-that Nana had passed? Well, she's not, quite..
+s1/s1_e8.txt:75:Ross: She's not- past, she's present, she's back.
+s1/s1_e8.txt:81:Ross: I, uh, I'll go see. (He goes in)
+s1/s1_e8.txt:84:Ross: Now she's passed.
+s1/s1_e8.txt:91:Ross: Twice.
+s1/s1_e8.txt:95:Ross: I dunno, it's weird. I mean, I know she's gone, but I just don't feel, uh...
+s1/s1_e8.txt:97:Ross: Nono, she's gone.
+s1/s1_e8.txt:106:Ross: I thought it was gonna be a closed casket.
+s1/s1_e8.txt:110:Ross: (sarcastic) I don't see why not.
+s1/s1_e8.txt:112:Ross: Here's my retainer!
+s1/s1_e8.txt:142:Ross: (holding a dress out from inside the closet) This one?
+s1/s1_e8.txt:144:Ross: I have shown you everything we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy.
+s1/s1_e8.txt:147:Ross: Oh! A fine choice. I'm coming out. (Starts to climb over the furniture)
+s1/s1_e8.txt:150:Ross: Okay. Um, how about these? (Holds out a pair)
+s1/s1_e8.txt:152:Ross: And where she's going everyone else'll be dressier?
+s1/s1_e8.txt:154:Ross: (forages around) Okay, I have nothing in an evening shoe in the burgundy. I can show you something in a silver that may work.
+s1/s1_e8.txt:157:Ross: No! Nonono, wait a sec. I may have something in the back.
+s1/s1_e8.txt:159:Ross: Oh my God..
+s1/s1_e8.txt:161:Ross: Yeah, just... just Nana stuff.
+s1/s1_e8.txt:165:Ross: (entering) How we doing, you guys ready?
+s1/s1_e8.txt:167:Ross: Some days it's all I can think about.
+s1/s1_e8.txt:174:Ross: What, we-uh- we don't have shoes here, or...?
+s1/s1_e8.txt:190:Ross: Oh, I hope they're not ruined.
+s1/s1_e8.txt:192:Ross: I know, uh, the air, the-the trees... even though Nana's gone there's, there's something almost, uh- I dunno, almost life-aff- (Not looking where he is going he falls into an open grave)
+s1/s1_e8.txt:194:Ross: I'm fine. Just-just... having my worst fear realised...
+s1/s1_e8.txt:197:Ross: What, what is it?
+s1/s1_e8.txt:199:Ross: Oh! No-n-
+s1/s1_e8.txt:208:Ross: I feel great. I feel- great, I fleel great.
+s1/s1_e8.txt:210:Ross: Not the first two, but the second two- woooo! ...I love you guys. You guys are the greatest. I love my sister (Kisses Monica), I love Pheebs... (Hugs her)
+s1/s1_e8.txt:212:Ross: ...Chandler!
+s1/s1_e8.txt:214:Ross: (hugs him) And listen, man, if you wanna be gay, be gay. Doesn't matter to me.
+s1/s1_e8.txt:216:Ross: Rachel. Rachel Rachel. (Sits down beside her) I love you the most.
+s1/s1_e8.txt:218:Ross: No.
+s1/s1_e8.txt:220:Ross: Oh.. you don't get it! (Passes out and slumps across her)
+s1/s1_e8.txt:252:Ross: That little naked guy would be me.
+s1/s1_e8.txt:254:Ross: Yes, yes, fine, that is my penis. Can we be grown-ups now?
+s1/s1_e8.txt:256:Ross: Got me.
+s1/s1_e8.txt:260:Ross: Looks like a fun gang. (They all look at each other and smile)
+s1/s1_e8.txt:262:Ross: (looking) Nono, that would be me again. I'm, uh, just trying something.
+s1/s1_e9.txt:16:Ross: No, they're not.
+s1/s1_e9.txt:18:Ross: You're wrong.
+s1/s1_e9.txt:20:Ross: You're wrong.
+s1/s1_e9.txt:22:Ross: (getting up, upset) I'm calling Mom.
+s1/s1_e9.txt:39:Ross: (to Monica) Well, you were right. How can they do this to us, huh? It's Thanksgiving.
+s1/s1_e9.txt:41:Ross: Will you make the mashed potatoes with the lumps?
+s1/s1_e9.txt:54:Ross: Well, I'm off to Carol's.
+s1/s1_e9.txt:56:Ross: (mimicking) Ooh, ooh. Because she's my ex-wife, and will probably want to bring her, ooh, ooh, lesbian life partner.
+s1/s1_e9.txt:58:Ross: Hi, is uh, is Carol here?
+s1/s1_e9.txt:60:Ross: Oh, I uh, just came by to pick up my skull. Well, not mine, but...Susan: Come in.
+s1/s1_e9.txt:61:Ross: Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.
+s1/s1_e9.txt:63:Ross: Kinda like a big face without skin.
+s1/s1_e9.txt:65:Ross: Ok. (browsing the apartment) Wow, you guys sure have a lot of books about bein' a lesbian.
+s1/s1_e9.txt:67:Ross: (picking up a book) Hey, hey, Yertle the Turtle. A classic.
+s1/s1_e9.txt:69:Ross: The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?
+s1/s1_e9.txt:71:Ross: You're not serious, I mean, you really... you really talk to it?
+s1/s1_e9.txt:73:Ross: Do you uh, do you talk about me?
+s1/s1_e9.txt:75:Ross: Really?
+s1/s1_e9.txt:78:Ross: Look, if she's talking to it, I just think that I should get some belly time too. Not that I believe any of this.
+s1/s1_e9.txt:98:Ross: Oh, I hate this story.
+s1/s1_e9.txt:130:Ross: I don't know. It's just not the same without Mom in the kitchen.
+s1/s1_e9.txt:132:Ross: That's closer.
+s1/s1_e9.txt:147:Ross: Ok, I'm off to talk to my unborn child.
+s1/s1_e9.txt:150:Ross: Ok, Mom never hit.
+s1/s1_e9.txt:171:Ross: Ok, ok, here we go. (he crouches down near her stomach) Ok, where am I talking to, here? I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...
+s1/s1_e9.txt:173:Ross: Ok, ok, ok, ok, here goes. You know, I, you know, can't do this. Uh, this is too weird. I feel stupid.
+s1/s1_e9.txt:175:Ross: (quickly talking) Hello, baby. Hello, hello.
+s1/s1_e9.txt:195:Ross: And everyone's telling me, you gotta pick a major, you gotta pick a major. So, on a dare, I picked paleontology. And you have no idea what I'm saying, because, let's face it, you're a fetus. You're just happy you don't have gills anymore.
+s1/s1_e9.txt:197:Ross: Oh, please. I am not singing to your stomach, ok?
+s1/s1_e9.txt:200:Ross: Shh! (singing) Here we come, walkin' down the street, get the funniest looks from, everyone we meet. Hey, hey! (to Carol) Hey, uh, did you just feel that?
+s1/s1_e9.txt:202:Ross: Does it always, uh--?
+s1/s1_e9.txt:205:Ross: (singing) Hey, hey, you're my baby, and I can't wait to meet you. When you come out I'll buy you a bagel, and then we'll go to the zoo.
+s1/s1_e9.txt:207:Ross: (singin) Hey, hey, I'm your daddy. I'm the one without any breasts.
+s1/s1_e9.txt:232:Ross: Here we come, walkin' down the—this doesn't smell like Mom's.
+s1/s1_e9.txt:253:Ross: I don't even wanna know about the dark cheese.
+s1/s1_e9.txt:262:Ross: And hey, here's to a lousy Christmas.
