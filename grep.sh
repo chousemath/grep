@@ -37,3 +37,9 @@ $ grep -n ?$ s1/*.txt* > occurrences_of_questions.txt
 
 # Print all lines excluding the matched ones
 $ grep -i -v chandler s1/*.txt* > occurrences_without_chandler.txt
+
+# Find the words that contains any character
+$ grep -n .! s1/*.txt* > occurrences_with_exclamation.txt
+
+# Combining grep with another command
+curl https://fangj.github.io/friends/season/0201.html | grep -i chandler > occurrences_with_chandler.html
