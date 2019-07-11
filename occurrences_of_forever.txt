@@ -1,6 +1,0 @@
-s1/s1_e12.txt:39:Chandler: Ok, you're going to have to stop that, forever!
-s1/s1_e14.txt:50:Joey: No, no, no, don't! I've been waitin' for like, forever to go out with Lorraine. Just calm down.
-s1/s1_e14.txt:185:Chandler: Is it loaded? Oh, little candy hearts. (reading the candy) Chan and Jan Forever.
-s1/s1_e18.txt:189:Monica: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.
-s1/s1_e4.txt:7:Chandler: Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.
-s1/s1_e7.txt:104:Joey: Priesthood! Look Ross, I'm telling you, she has no idea what you're thinking. If you don't ask her out soon you're going to end up stuck in the zone forever.
